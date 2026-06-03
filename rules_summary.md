@@ -175,7 +175,7 @@ Choose one at character creation if Brawler is the favoured class and option #4 
 
 ### Campaign Barbarian Revision
 
-- **Damage Reduction:** Barbarians gain DR 1/— at level 4, scaling by +1 every 3 levels (DR 2/— at 7, DR 3/— at 10, etc.). Not relevant for a 1-level dip.
+- **Damage Reduction:** Barbarians gain DR 1/— at level 4, scaling by +1 every 3 levels (DR 2/— at 7, DR 3/— at 10, etc.).
 
 ---
 

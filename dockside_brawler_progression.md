@@ -198,7 +198,7 @@ Take whichever priority option from level 2 was not taken, or:
 ## Class Features
 - **Rage** (burst combat mode: +4 Str/Con, +2 Will, -2 AC)
 - Fast Movement (+10 ft. in medium or lighter armor)
-- Note: campaign Barbarian gets DR 1/— at level 4 (but only dipping 1 level)
+- Note: campaign Barbarian gets DR 1/— at level 4 — reachable if taking additional Barbarian levels
 
 ---
 
