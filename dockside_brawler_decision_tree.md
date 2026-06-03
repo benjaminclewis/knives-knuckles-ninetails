@@ -15,21 +15,26 @@
 | Defensive Mobility | 5+ (if taken) | Requires Dex 13 + Defensive Combat Training |
 | Flurry (Imp. TWF) | 9+ | Second iterative at -5 |
 | Grapple Resistance | 1+ (if GM allows) | Brawler favoured class; pending GM approval |
-| Combat Reflexes | varies | # of AoOs = **lower** of Dex or Int bonus |
+| Hack | 7+ (if taken) | Free extra attack on KO; once per round |
+| Strength Surge | Barb 2+ (if taken) | Guaranteed grapple once per rage |
+| Knockback | Barb 2+ (if taken) | Free bull rush on every Power Attack hit |
 
 ---
 
 ## Reminders (Every Combat)
 
-- **Melee attack = BAB + STR + DEX** — your DEX adds to hit. Keep it up.
-- **Flanked resistance:** At BAB +1-5, flanked by 2+ enemies. At BAB +6+ (level 6), flanked by **3+ enemies**. You're harder to swarm than core PF1e.
+- **Melee attack = BAB + STR + DEX** — DEX adds to hit alongside STR.
+- **Flanked resistance:** At BAB +1-5, flanked by 2+ enemies. At BAB +6+ (level 6), flanked by **3+ enemies**. Much harder to swarm than core PF1e.
 - **Battered at < 50% HP:** -2 to all saves (if enforced — not used in previous campaign). Rage helps offset (+2 morale Will).
-- **Bite:** Free secondary attack at -5 for 1d3 + half STR at the end of any full attack. Use it.
-- **Martial Flexibility:** If you're missing a maneuver feat for this situation, flex into it. Move action at levels 1-5, swift action at 6+.
+- **Bite:** Free secondary attack at -5 for 1d3 + half STR at the end of any full attack.
+- **Martial Flexibility:** Missing a maneuver feat for the situation? Flex into it. Move action at levels 1-5, swift action at 6+.
 - **Dockside Brawler trait:** +1 damage with brass knuckles and improvised weapons — always applies.
 - **Grapple Resistance:** If GM allows Brawler favoured class, add half Brawler level to CMC vs grapples.
-- **Iron Will:** +2 Will saves, always on. Combined with Rage (+2 morale Will), you're at +4 Will over baseline when it matters. Critical for staying in the fight while Battered.
-- **Defensive Actions:** You can attempt any provoking action defensively (DCM vs CMC + modifiers). If you fail the DCM check, you fumble the action. Moving defensively costs a standard action.
+- **Iron Will:** +2 Will saves, always on. Combined with Rage (+2 morale Will) = +4 over baseline when raging.
+- **Hack (if taken):** Free extra melee attack at full BAB whenever a foe is KO'd. Strong with Flurry.
+- **Strength Surge (if taken, Barb 2+):** Add Barbarian level to one CMB check per rage — guarantee a critical grapple.
+- **Knockback (if taken, Barb 2+):** Every Power Attack hit triggers a free bull rush. On a dockside map, push enemies off piers or into hazards.
+- **Defensive Actions:** Any provoking action can be taken defensively (DCM vs CMC + modifiers). On failure, the action is fumbled. Moving defensively costs a standard action.
 
 ---
 
@@ -44,18 +49,18 @@
 
 ## Step 1: Normal Combat
 
-Can you full attack safely?
+Can the character full attack safely?
 
 **Yes:**
 - **Default: Flurry** — multi-attack pressure, best with Power Attack toggled to taste
 - **Single tough target: Slam** — better vs DR or high AC (fewer attacks at higher damage per hit)
 - **Either way:** add bite at -5 as a free rider
-- Remember: Slam is FULL-ROUND until level 7 — if you need to move, you can't Slam
+- Remember: Slam is FULL-ROUND until level 7 — moving prevents it
 
 **No (need to move):**
 - Move + single attack (or Slam as standard action at level 7+)
 - Move + Martial Flexibility (swift at level 6+) + single attack (if flexing is swift)
-- Move + Defensive Mobility DCM check (if you have the feat) to avoid AoOs while repositioning
+- Move + Defensive Mobility DCM check (if the feat is taken) to avoid AoOs while repositioning
 
 ---
 
@@ -75,39 +80,40 @@ Can you full attack safely?
 
 ## Step 3: Controlled (Grappled / Tripped / Pinned)
 
-**You're the one in trouble.**
+**The character is the one in trouble.**
 
 1. **Escape first.** Use the Escape grapple maneuver (standard action, DCM vs opponent's CMC). Alternatively, use Escape Artist or a straight Strength check vs their CMC.
-2. **If escape succeeds:** Reposition to a safer spot. Consider Defensive Mobility to avoid AoOs (available level 5+ if taken).
+2. **If escape succeeds:** Reposition to a safer spot. Use Defensive Mobility to avoid AoOs (available level 5+ if taken).
 3. **If escape fails or isn't the priority:** 
    - **Slam** (unarmed strike is 0-reach, so it works in a grapple)
    - **Bite** (natural attack, also 0-reach, works in grapple — 1d3 + half STR)
    - Defensive action (total defense, or flex into a defensive feat via Martial Flexibility)
-4. **If you're merely tripped:** Stand up (provokes) or attack from prone. Flurry from prone at -4 may still be worth it if you're controlling the fight.
+4. **If tripped:** Stand up (provokes) or attack from prone. Flurry from prone at -4 may still be worthwhile.
 
 ---
 
-## Step 5: Grappling (You Initiated)
+## Step 5: Grappling (Initiated)
 
-**You've successfully grappled an opponent. What now?**
+**A grapple has been successfully initiated. What now?**
 
 ### Priority Sequence
 
-1. **Hold first** (move action) — opponent is at -5 to attack you, +2 to your further maneuvers, can't Hold/Pin/Throw you back. This locks them down.
+1. **Hold first** (move action) — opponent at -5 to attack, +2 to further maneuvers against them, can't Hold/Pin/Throw back. This locks them down.
 2. **Then, by situation:**
-   - **Caster or dangerous enemy:** Pin (standard) — nearly shuts them down. Remember enemies get +2 CMC vs pin.
+   - **Caster or dangerous enemy:** Pin (standard) — nearly shuts them down. Enemies get +2 CMC vs pin.
    - **High-HP target:** Choke (standard) — 1d2 CON damage ignores HP. Excellent against barbarians, big monsters, anything with lungs.
    - **Need damage now:** Damage (attack action) — unarmed strike at full STR, or bite at 1.5× STR.
    - **Need to reposition:** Move (move action) — drag them at half speed.
-   - **Want them on the ground:** Throw (standard) — puts them prone 5+ ft away, breaking the grapple on your terms. Or Drop (move) to go prone together (useful if allies are waiting to dogpile).
+   - **Want them on the ground:** Throw (standard) — puts them prone 5+ ft away, breaking the grapple. Or Drop (move) to go prone together (useful if allies are waiting to dogpile).
+3. **Strength Surge (if taken):** Pop this to guarantee a critical Hold, Pin, or Choke — 1/rage, use when the maneuver must land.
 
 ### Important Reminders
-- **Each round you don't succeed at a grappling action → they get a free escape attempt.** Always take at least one grappling action per round.
-- **Taking an action that requires both hands → they auto-escape.** Keep one hand free or use unarmed/armor spikes.
-- **Your bite attack works at 1.5× STR in a grapple** (per campaign Damage maneuver rules).
+- **Each round without a successful grappling action → the opponent gets a free escape attempt.** Always take at least one grappling action per round.
+- **Taking an action requiring both hands → opponent auto-escapes.** Keep one hand free or use unarmed/armor spikes.
+- **Bite attack works at 1.5× STR in a grapple** (per campaign Damage maneuver rules).
 
 ### Escape Is Possible
-If they're consistently escaping, you may want to switch to Flurry or Slam instead — grappling someone with high CMC or high Escape Artist is a losing proposition.
+If the opponent consistently escapes, switch to Flurry or Slam — grappling someone with high CMC or high Escape Artist is a losing proposition.
 
 ---
 
@@ -126,13 +132,13 @@ If they're consistently escaping, you may want to switch to Flurry or Slam inste
 
 **At level 9+:** Flurry now has a second iterative (Imp. TWF). Against bosses with moderate AC, Flurry pulls ahead of Slam for sustained damage. Slam remains better against very high AC or DR.
 
-**Choke strategy for high-HP bosses:** If the boss breathes and has low/moderate CMC, grapple → hold → choke can kill in 5-10 rounds regardless of HP. Even one round of choke softens them up. Remember: each round you don't take a grappling action, they get a free escape attempt.
+**Choke strategy for high-HP bosses:** If the boss breathes and has low/moderate CMC, grapple → hold → choke can kill in 5-10 rounds regardless of HP. Even one round of choke softens them up. Remember: each round without a successful grappling action, they get a free escape attempt.
 
 ---
 
 ## Level-Aware Cheat Sheet
 
-| Your Level | What's New | Default Turn |
+| Char Level | What's New | Default Turn |
 |------------|------------|--------------|
 | 1 | Power Attack, IUS 1d6 | Move + single attack (no Flurry yet) |
 | 2 | Flurry (TWF), Bonus feat | Full attack Flurry if possible |
@@ -140,10 +146,11 @@ If they're consistently escaping, you may want to switch to Flurry or Slam inste
 | 4 | Knockout 1/day, AC +1 | Save Knockout for the right moment |
 | 5 | Magic strikes, Close Weapon Mastery, Catch Off-Guard online | Brass knuckles now 1d6+1, improvised only -1 to hit |
 | 6 | **Rage**, Martial Flexibility swift | Boss fights: Rage + Flurry. Every fight: swift flex |
-| 7 | — | Still no new combat mode; you're consistent now |
+| 7 | Iron Will or Hack (feat choice) | Extra KO attacks (Hack) or safer saves (Iron Will) |
 | 8 | Maneuver Training 2 (flurry at -2/-2) | Flurry accuracy improves |
 | 9 | Flurry (Imp. TWF), Bonus feat | Second iterative in flurry — big power spike |
-| 10 | Knockout 2/day, AC +2 | More aggressive use of Knockout |
+| 10 | Brawler 9: Knockout 2/day, AC +2 — OR — Barbarian 2: Uncanny Dodge, first Rage Power | Choose between Brawler capstone or Barbarian expansion |
+| 11+ | Barbarian 2-4: Rage Powers, DR 1/— at Barb 4 | Strength Surge (guaranteed grapple), Knockback (free bull rushes) |
 
 ---
 
