@@ -233,4 +233,4 @@ The character already has (or will have) the "Improved" maneuver feats, which pr
 - **Bite:** 1d3 + half STR as secondary (-5) on any full attack; in a grapple, 1.5× STR on Damage maneuver.
 - **Inferior Vision:** -4 saves vs illusion spells
 - **Combat Reflexes:** Skipped — requires both Dex and Int investment. Base 1 AoO/round is sufficient.
-- **Full rules:** See `rules_summary.md`
+- **Full rules:** See [rules_summary.md](rules_summary.md)

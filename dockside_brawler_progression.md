@@ -374,7 +374,7 @@ These feats are situationally strong but not worth sacrificing a permanent feat 
 # KEY CAMPAIGN RULES TO REMEMBER
 
 - **Melee attack = BAB + STR + DEX + size** (campaign adds DEX — core is STR only). Dex is twice as valuable.
-- **OCM/DCM system** replaces standard CMB/CMD. OCM = BAB+STR+size, DCM = BAB+DEX+size, CMC = 10+BAB+STR+DEX. See `rules_summary.md` for details.
+- **OCM/DCM system** replaces standard CMB/CMD. OCM = BAB+STR+size, DCM = BAB+DEX+size, CMC = 10+BAB+STR+DEX. See [rules_summary.md](rules_summary.md) for details.
 - **Flanked:** Only flanked when threatened by more opponents than attacks from BAB (2+ needed at BAB +1-5, **3+ needed at BAB +6+**). Huge defensive buff.
 - **Ability score increases** at levels 4, 6, 8, 10 (every 2 levels, not every 4). Faster stat growth.
 - **Armour grants DR** — Studded Leather recommended: +3 AC, DR 1/—, Max DEX +5, works with Brawler AC Bonus.
