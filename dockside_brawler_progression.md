@@ -198,7 +198,7 @@ Take whichever priority option from level 2 was not taken, or:
 ## Class Features
 - **Rage** (burst combat mode: +4 Str/Con, +2 Will, -2 AC)
 - Fast Movement (+10 ft. in medium or lighter armor)
-- Note: campaign Barbarian gets DR 1/— at level 4 — reachable if taking additional Barbarian levels
+- Note: campaign Barbarian gets DR 1/— at level 4, a second Rage Power at 4, and Uncanny Dodge at 2 — reachable if taking additional Barbarian levels (see below)
 
 ---
 
@@ -253,6 +253,34 @@ OR: remaining control feat from the priority list.
 - **AC Bonus +2** (dodge bonus; campaign 1.5× multiplier applies if chosen)
 - **Brawler's Strike (cold iron & silver)** — unarmed strikes bypass these DR types
 - **Knockout 2/day** (up from 1/day)
+
+---
+
+# BEYOND LEVEL 10 — ADDITIONAL BARBARIAN LEVELS
+
+After Brawler 8's Flurry upgrade at level 9, further Barbarian levels are the most impactful dips available. Brawler 9-10 features (AC +2, Knockout 2/day, free-action Martial Flexibility) are solid but can be deferred in favor of Barbarian progression.
+
+## Barbarian 2 (Character Level 10 or 11)
+- **Uncanny Dodge** — never flat-footed, retains DEX to AC vs invisible attackers
+- **Rage Power** — first selection (see recommendations below)
+- If taken at level 10: delays Brawler 9 (AC +2, Knockout 2/day). If taken at level 11: delays Brawler 10 (free-action Martial Flexibility)
+
+## Barbarian 3 (Character Level 11 or 12)
+- **Trap Sense +1** — negligible; this is a filler level on the way to Barbarian 4
+
+## Barbarian 4 (Character Level 12 or 13)
+- **Rage Power** — second selection
+- **DR 1/—** (campaign revision) — stacks with Studded Leather's DR 1/— for **DR 2/—** against all physical damage
+
+## Recommended Rage Powers
+
+**Priority 1 — Strength Surge:** Add Barbarian level to one CMB check per rage. For a grapple specialist, this guarantees one key grab per fight. Combined with the campaign's Choke (CON damage) and Hold (near-shutdown) grapple options, one guaranteed lock-down per rage is a major asset. Prerequisites: none.
+
+**Priority 2 — Knockback:** Every Power Attack hit triggers a free bull rush attempt. Flurry makes 2-3 attacks per round, each with Power Attack active — that's 2-3 push attempts per round. On a dockside map, pushing enemies off piers, into water, or into environmental hazards is both mechanically strong and thematically perfect. Prerequisites: Power Attack [yes], BAB +6 [yes].
+
+**Alternative — Reckless Abandon:** Trade up to BAB in AC for equal attack bonus each round. At Barbarian 2 (BAB ~+9), that's up to -9 AC / +9 to hit. Useful against high-AC enemies the character is unlikely to dodge anyway. Toggle per round based on situation.
+
+**Alternative — Renewed Vigor:** Heal 1d8 + CON HP as a standard action once per rage. Emergency sustain for a frontline fighter who runs out of external healing.
 
 ---
 
@@ -331,8 +359,10 @@ OR: remaining control feat from the priority list.
 
 ## Rage Mode
 - Barbarian burst: +4 Str/Con, +2 Will, -2 AC
-- 4 + Con modifier rounds/day
+- 4 + Con modifier rounds/day (6 at level 1 with CON 14, scaling with CON increases)
 - Used in boss fights or emergencies
+- With Strength Surge (Barb 2): one guaranteed grapple per rage — use when a critical target must be locked down
+- With Knockback (Barb 2): every Power Attack hit pushes — reposition enemies into hazards or off ledges at will
 
 ---
 
