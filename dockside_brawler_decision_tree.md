@@ -6,18 +6,20 @@
 
 | Ability | Level | Notes |
 |---------|-------|-------|
+| Martial Flexibility | 1+ | Move action (1 feat) until 6; swift (2 feats) at 6+ |
+| Grapple Resistance | 1+ (if GM allows) | Brawler favoured class; pending GM approval |
 | Flurry (TWF) | 2+ | Default full-attack mode |
 | Brawler's Slam | 3+ | Full-round until 7, then standard action |
-| Martial Flexibility | 1+ | Move action (1 feat) until 6; swift (2 feats) at 6+ |
 | Knockout | 4+ | 1/day; 2/day at level 10 |
 | Close Weapon Mastery | 5+ | Brass knuckles damage = unarmed strike damage |
-| Rage | 6+ | 4 + Con mod rounds/day |
 | Defensive Mobility | 5+ (if taken) | Requires Dex 13 + Defensive Combat Training |
-| Flurry (Imp. TWF) | 9+ | Second iterative at -5 |
-| Grapple Resistance | 1+ (if GM allows) | Brawler favoured class; pending GM approval |
+| Rage | 6+ | 4 + Con mod rounds/day |
 | Hack | 7+ (if taken) | Free extra attack on KO; once per round |
+| Flurry (Imp. TWF) | 9+ | Second iterative at -5 |
+| Uncanny Dodge | Barb 2+ (if taken) | Never flat-footed |
 | Strength Surge | Barb 2+ (if taken) | Guaranteed grapple once per rage |
 | Knockback | Barb 2+ (if taken) | Free bull rush on every Power Attack hit |
+| DR 1/— | Barb 4+ (if taken) | Stacks with Studded Leather for DR 2/— |
 
 ---
 
