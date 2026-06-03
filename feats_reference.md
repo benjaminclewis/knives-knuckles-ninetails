@@ -5,7 +5,7 @@
 ---
 
 ## Improved Unarmed Strike (Combat) — CORE, GRANTED FREE
-**Source:** Core PF1e (d20pfsrd). Brawler 1 class feature.
+**Source:** [Core PF1e](https://www.d20pfsrd.com/feats/combat-feats/improved-unarmed-strike-combat). Brawler 1 class feature.
 
 **Prerequisites:** None.
 
@@ -16,7 +16,7 @@
 ---
 
 ## Power Attack (Combat)
-**Source:** Core PF1e (d20pfsrd)
+**Source:** [Core PF1e](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat)
 
 **Prerequisites:** Str 13, base attack bonus +1.
 
@@ -29,7 +29,7 @@ You must choose to use this feat before making an attack roll, and its effects l
 ---
 
 ## Catch Off-Guard (Combat) — CAMPAIGN REVISED
-**Source:** http://legendspring.wikidot.com/feats
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
 
 **Prerequisites:** Base attack bonus +4.
 
@@ -42,7 +42,7 @@ You must choose to use this feat before making an attack roll, and its effects l
 ---
 
 ## Improved Grapple (Combat) — CAMPAIGN REVISED
-**Source:** http://legendspring.wikidot.com/feats
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
 
 **Prerequisites:** Dex 13, Improved Unarmed Strike.
 
@@ -55,7 +55,7 @@ You must choose to use this feat before making an attack roll, and its effects l
 ---
 
 ## Improved Expertise Maneuvers (Combat) — CAMPAIGN CUSTOM
-**Source:** http://legendspring.wikidot.com/feats
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
 
 **Prerequisites:** Int 13, Combat Expertise.
 
@@ -68,7 +68,7 @@ You must choose to use this feat before making an attack roll, and its effects l
 ---
 
 ## Improved Overpowering Maneuvers (Combat) — CAMPAIGN CUSTOM
-**Source:** http://legendspring.wikidot.com/feats
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
 
 **Prerequisites:** Str 13, Power Attack, base attack bonus +1.
 
@@ -81,7 +81,7 @@ You must choose to use this feat before making an attack roll, and its effects l
 ---
 
 ## Defensive Combat Training (Combat) — CAMPAIGN REVISED
-**Source:** http://legendspring.wikidot.com/feats
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
 
 **Prerequisites:** None.
 
@@ -92,7 +92,7 @@ You must choose to use this feat before making an attack roll, and its effects l
 ---
 
 ## Combat Reflexes (Combat) — CAMPAIGN REVISED
-**Source:** http://legendspring.wikidot.com/feats
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
 
 **Prerequisites:** None (campaign version).
 
@@ -105,7 +105,7 @@ You may take a single opportunity action in a round where you are flat-footed.
 ---
 
 ## Defensive Mobility (Combat) — CAMPAIGN CUSTOM
-**Source:** http://legendspring.wikidot.com/feats
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
 
 **Prerequisites:** Dex 13, Defensive Combat Training.
 
@@ -116,7 +116,7 @@ You may take a single opportunity action in a round where you are flat-footed.
 ---
 
 ## Weapon Focus (Combat) — CORE
-**Source:** Core PF1e (d20pfsrd)
+**Source:** [Core PF1e](https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat)
 
 **Prerequisites:** Proficiency with selected weapon, base attack bonus +1.
 
@@ -127,7 +127,7 @@ You may take a single opportunity action in a round where you are flat-footed.
 ---
 
 ## Combat Expertise (Combat) — CORE
-**Source:** Core PF1e (d20pfsrd)
+**Source:** [Core PF1e](https://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat)
 
 **Prerequisites:** Int 13.
 
@@ -138,7 +138,7 @@ You may take a single opportunity action in a round where you are flat-footed.
 ---
 
 ## Unarmed Slam (Combat) — CAMPAIGN CUSTOM
-**Source:** http://legendspring.wikidot.com/feats
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
 
 **Prerequisites:** Improved Unarmed Strike, Base attack bonus +5, Improved Overpowering Maneuvers.
 
