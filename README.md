@@ -14,4 +14,4 @@ Character build and campaign rules reference for **Kathassisk "Scab" Sethkash**,
 
 ## Character Sheet
 
-**[Kathassisk "Scab" Sethkash](https://docs.google.com/spreadsheets/d/1Y8gUUxvNwmr0jo3S8D_73Qrb-XZtLZRdRdG1nauH13c/edit?usp=sharing)** — Google Sheets character sheet (view only; copy to edit).
+**[Kathassisk "Scab" Sethkash](https://docs.google.com/spreadsheets/d/1Y8gUUxvNwmr0jo3S8D_73Qrb-XZtLZRdRdG1nauH13c/edit?usp=sharing#gid=665550463)** — Google Sheets character sheet (view only; copy to edit).
