@@ -29,7 +29,7 @@ You must choose to use this feat before making an attack roll, and its effects l
 ---
 
 ## Catch Off-Guard (Combat) — CAMPAIGN REVISED
-**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats#toc3)
 
 **Prerequisites:** Base attack bonus +4.
 
@@ -42,7 +42,7 @@ You must choose to use this feat before making an attack roll, and its effects l
 ---
 
 ## Improved Grapple (Combat) — CAMPAIGN REVISED
-**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats#toc11)
 
 **Prerequisites:** Dex 13, Improved Unarmed Strike.
 
@@ -55,7 +55,7 @@ You must choose to use this feat before making an attack roll, and its effects l
 ---
 
 ## Improved Expertise Maneuvers (Combat) — CAMPAIGN CUSTOM
-**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats#toc28)
 
 **Prerequisites:** Int 13, Combat Expertise.
 
@@ -68,7 +68,7 @@ You must choose to use this feat before making an attack roll, and its effects l
 ---
 
 ## Improved Overpowering Maneuvers (Combat) — CAMPAIGN CUSTOM
-**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats#toc29)
 
 **Prerequisites:** Str 13, Power Attack, base attack bonus +1.
 
@@ -81,7 +81,7 @@ You must choose to use this feat before making an attack roll, and its effects l
 ---
 
 ## Defensive Combat Training (Combat) — CAMPAIGN REVISED
-**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats#toc7)
 
 **Prerequisites:** None.
 
@@ -92,7 +92,7 @@ You must choose to use this feat before making an attack roll, and its effects l
 ---
 
 ## Combat Reflexes (Combat) — CAMPAIGN REVISED
-**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats#toc5)
 
 **Prerequisites:** None (campaign version).
 
@@ -105,7 +105,7 @@ You may take a single opportunity action in a round where you are flat-footed.
 ---
 
 ## Defensive Mobility (Combat) — CAMPAIGN CUSTOM
-**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats#toc19)
 
 **Prerequisites:** Dex 13, Defensive Combat Training.
 
@@ -138,7 +138,7 @@ You may take a single opportunity action in a round where you are flat-footed.
 ---
 
 ## Unarmed Slam (Combat) — CAMPAIGN CUSTOM
-**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats)
+**Source:** [Legendspring Campaign](http://legendspring.wikidot.com/feats#toc40)
 
 **Prerequisites:** Improved Unarmed Strike, Base attack bonus +5, Improved Overpowering Maneuvers.
 
