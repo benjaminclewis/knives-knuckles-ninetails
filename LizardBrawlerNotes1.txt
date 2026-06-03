@@ -1,0 +1,854 @@
+
+Absolutely — I can help you put together a solid Lizardfolk Barbarian–Brawler–Unarmed build!
+Let’s clarify the basics first and then go over options depending on which Pathfinder edition you’re using.
+
+Could you confirm:
+
+Are you playing Pathfinder 1e or Pathfinder 2e?
+
+And are you using any optional rules (like Unchained Barbarian or Archetypes for the Brawler)?
+
+The approach changes quite a bit between editions:
+
+In PF1e, “Barbarian/Brawler” multiclassing or hybridization is possible with feats like Improved Unarmed Strike, Pummeling Style, and rage powers that enhance natural attacks.
+
+In PF2e, you’d likely want to combine Barbarian (Animal or Fury instinct) with Monk multiclass archetype to get unarmed proficiency and bonus damage synergy — the flavor of “Brawler Barbarian.”
+
+Once you confirm edition and ruleset, I can outline:
+
+Race and ancestry options (best Lizardfolk feats)
+
+Class and subclass choices
+
+Feat progression (both class and general)
+
+Suggested gear / runes or magic items
+
+Example build path (level-by-level milestones)
+
+Would you like me to assume PF2e for now, or are you building in PF1e?
+
+
+It's pathfinder 1e, not using unchained, and mostly only core content.  I'm not sure if archetypes will be allowed or not.  In custom house rules, I believe lizardfolk get a bite attack but no claw attacks by default
+
+Perfect — Pathfinder 1e, non-Unchained, mostly Core content, Lizardfolk with bite only natural attack. That gives us a clear foundation. Let’s build you a Lizardfolk unarmed bruiser who fights with fists, headbutts, and bite — a “Barbarian-Brawler” type that hits like a freight train without needing weapons.
+
+🦎 Concept Overview
+You’re going for a close-quarters, primal fighter who uses raw strength, toughness, and natural ferocity to dominate melee without relying on weapons. Mechanically, this combines:
+
+Barbarian rage for raw Strength and damage boosts.
+
+Unarmed strike feats for versatility and scaling.
+
+Natural attacks (bite) to complement your unarmed routine.
+
+We’ll stay mostly Core-legal, but I’ll note a few “common sense” options that are from Advanced Player Guide / Ultimate Combat in case your GM allows them.
+
+⚔️ Core Chassis
+Race: Lizardfolk
++2 Strength, +2 Constitution, –2 Intelligence.
+
+Natural Armor +2, great for a frontliner.
+
+Bite attack (1d4). Treated as a primary natural attack when used alone, or a secondary when used alongside manufactured or unarmed attacks.
+
+Amphibious or swim speed (depends on your GM’s exact version).
+
+→ This is a great physical statline and defense baseline for a brawler type.
+
+💢 Class: Barbarian
+Core Features:
+Rage → +4 STR, +4 CON, +2 Will, –2 AC.
+
+Fast Movement, DR, and Rage Powers as you level.
+
+Suggested Rage Powers:
+You’ll want powers that help your mobility, damage, or natural weapon synergy:
+
+Animal Fury (Core) — grants a bite attack that works while raging (since you already have one, it instead improves your existing bite’s damage while raging).
+
+Reckless Abandon — trade AC for attack bonus while raging (fantastic for unarmed builds).
+
+Superstition — great general defensive buff.
+
+Strength Surge — add your Barbarian level to one combat maneuver or STR check per rage (excellent clutch power).
+
+Renewed Vigor — self-healing, always welcome.
+
+🥊 Unarmed Combat Path (Core-Legal)
+Because you’re not using Monk, we need to make your unarmed strikes viable.
+
+Key Feats (Core):
+Improved Unarmed Strike — makes your unarmed attacks count as armed and removes AoOs.
+
+Power Attack — essential for melee bruisers.
+
+Improved Grapple or Improved Bull Rush (depending on flavor).
+
+Toughness — synergizes with Rage and high CON.
+
+Improved Natural Attack (Bite) (Monster Feat, non-Core but commonly allowed) — boosts bite from 1d4 → 1d6.
+
+Multiattack (Monster Feat) — reduces penalty for secondary natural attacks from –5 → –2. If your GM allows this, it’s gold.
+
+Optional if GM allows:
+Weapon Focus (Unarmed Strike) — improves your to-hit.
+
+Pummeling Style (APG) — for unarmed flurry style combos.
+
+Feral Combat Training (UC) — lets you use feats like Weapon Focus to apply to your bite as though it were unarmed strike.
+
+⚙️ Attack Routine Examples
+Early Game (Level 3 Barbarian)
+Raging: STR ~22 (base 18 + 4)
+
+Attack: +7 (BAB +3, STR +6, –2 Power Attack)
+
+Damage: 1d3+9 unarmed, or 1d4+9 bite.
+
+Or combine: Unarmed primary (1d3+9), Bite secondary (1d4+6 if Multiattack).
+
+Mid Game (Level 8–10)
+Full Attack: Unarmed (BAB +8/+3), Bite (–2 secondary)
+→ Great synergy: multiple high-damage hits, reliable Power Attack scaling, DR, and toughness.
+
+🛡️ Defense and Survivability
+Natural Armor + High CON + Rage temp HP = excellent frontliner.
+
+Consider Armor spikes or spiked gauntlets if you need a “manufactured” weapon for rules interactions.
+
+Amulet of Mighty Fists → must-buy eventually; adds enhancement bonuses to unarmed and natural attacks.
+
+📈 Suggested Level Path (Core)
+Level	Class	Key Feat	Rage Power / Feature	Notes
+1	Barbarian 1	Improved Unarmed Strike	—	Start punching things legally.
+2	Barbarian 2	Power Attack	—	Damage starts spiking.
+3	Barbarian 3	Improved Grapple or Bull Rush	Animal Fury	Adds bite synergy.
+4	Barbarian 4	—	Rage Power: Strength Surge	
+5	Barbarian 5	Toughness	—	
+6	Barbarian 6	Multiattack (if allowed)	Reckless Abandon	Strong offensive spike.
+7	Barbarian 7	Weapon Focus (Unarmed)	—	
+8	Barbarian 8	—	Superstition	Defense boost.
+9	Barbarian 9	Improved Natural Attack (Bite)	—	
+10	Barbarian 10	Iron Will	Renewed Vigor	
+🧠 Tactics & Playstyle
+Start fights in rage — your unarmed strikes hit like warhammers, and your bite adds extra hits.
+
+Grapple or Bull Rush enemies to control the field.
+
+Mix full-attacks (unarmed + bite) when you can, and Power Attack always.
+
+With Multiattack, your bite stays competitive even at high levels.
+
+🔮 Magic Item Priorities
+Amulet of Mighty Fists — #1 priority.
+
+Belt of Giant Strength — always good.
+
+Cloak of Resistance — standard.
+
+Ring of Protection or natural armor amulet upgrades.
+
+🪶 Optional Flavor Tweaks
+Ask your GM if your bite damage scales while raging with Animal Fury; it usually should.
+
+Consider tattoos or scars as narrative marks of your primal combat training — no need for weapons.
+
+You could flavor your unarmed attacks as tail slaps, claws, headbutts, elbows, etc., to keep the “reptilian brawler” theme strong.
+
+Would you like me to show a level-by-level build table (with attack bonuses, damage estimates, and feat progression) for this concept — or keep it more general for flexibility depending on what your GM allows for archetypes and monster feats?
+
+
+what about beast totem?
+
+Excellent instinct — Beast Totem is the power move for your concept.
+
+It’s absolutely one of the strongest Barbarian rage power lines in Pathfinder 1e, and for a Lizardfolk unarmed brawler, it fits both mechanically and thematically.
+Let’s go through exactly how it works and why it synergizes beautifully with your setup.
+
+🐾 The Beast Totem Rage Power Line (Core)
+The Beast Totem powers are part of the Totem rage powers group (Core Rulebook, p. 33–34).
+You can only have one Totem line active (Beast, Fiend, Spirit, etc.), so you commit to this path — but it’s well worth it.
+
+You must take them in order, since each one requires the previous:
+
+Rage Power	Level Req.	Effect
+Lesser Beast Totem	2nd	Gain 2 claw attacks (1d6 each if Medium). These are primary natural attacks while raging.
+Beast Totem	6th	Gain +1 natural armor bonus while raging (stacks with your Lizardfolk’s racial NA), and +1 for every 4 levels beyond 6th.
+Greater Beast Totem	10th	Gain pounce (you can make a full attack at the end of a charge) while raging. Also requires the previous two Beast Totems.
+🧩 Why It’s Perfect for a Lizardfolk Unarmed Build
+You already have:
+
+A bite natural attack (racial).
+
+Strong Strength and Constitution for melee.
+
+An unarmed focus — no reliance on weapons.
+
+Beast Totem gives you:
+
+Two claws → now you have three natural attacks (claw/claw/bite).
+
+Natural armor scaling that stacks with your racial +2.
+
+Pounce, which lets you charge into a full attack — arguably one of the most powerful melee abilities in the game.
+
+This transforms your build from “bare-knuckle brawler” into a feral blender.
+
+⚙️ Attack Routine Synergy
+Without any Multiattack feat, your attacks on a full round while raging would be:
+
+Claw +Claw +Bite, all as primary natural attacks, because you’re not using manufactured weapons.
+
+So at mid levels (say level 8 with 22 Strength raging):
+
+Attack: +11 (BAB +8, STR +6, –2 Power Attack, +? buffs)
+
+Damage:
+
+Claw 1d6+9 each
+
+Bite 1d4+9
+
+If you take Improved Natural Attack (Bite) and maybe Amulet of Mighty Fists, this damage scales even harder.
+
+And once you reach Greater Beast Totem (level 10):
+
+You can charge → immediately make all three attacks (claw/claw/bite) in the same round.
+
+That makes you an extremely dangerous frontliner — you’re fast, tough, and brutal on the opening turn.
+
+⚔️ Build Integration Example
+You’d adjust your Rage Power progression like this:
+
+Level	Rage Power
+2	Animal Fury (optional, but if you already have a bite racial, you could skip it)
+4	Lesser Beast Totem
+6	Beast Totem
+8	Reckless Abandon or Superstition
+10	Greater Beast Totem
+If your GM lets you keep your racial bite and take Lesser Beast Totem’s claws, you now have a three-attack routine every round — no feat investment needed for Multiattack unless you start adding more limbs or secondary attacks.
+
+🧠 Mechanical Interactions & Notes
+You cannot use your unarmed strike in the same full-attack routine as natural attacks unless you have a special rule (like Flurry of Blows).
+→ So you’ll choose between:
+
+Full unarmed attacks (using BAB progression)
+
+Or full natural attacks (claw/claw/bite)
+
+But since Beast Totem gives you three natural attacks, it’s usually better to just go “feral” during rage — fists, claws, and teeth all count as primal weapons anyway.
+
+Multiattack feat (Monster Feat): if you ever mix unarmed + natural attacks, this reduces penalties to –2 instead of –5.
+
+Amulet of Mighty Fists enhances all your natural attacks and unarmed strikes — one item boosts both.
+
+🪓 Recommended Combined Path
+If your GM allows the Beast Totem line, I’d pivot your build to something like this:
+
+Level	Feat	Rage Power	Notes
+1	Improved Unarmed Strike	—	You can still fight unarmed outside of rage.
+2	—	Lesser Beast Totem	Gain claws!
+3	Power Attack	—	Classic damage boost.
+4	—	Beast Totem	+1 natural armor.
+5	Toughness	—	More HP to fuel rage.
+6	Improved Natural Attack (Bite)	Reckless Abandon	
+8	Multiattack (if GM allows)	Superstition	
+9	Weapon Focus (Unarmed Strike)	—	
+10	Iron Will	Greater Beast Totem	Gain pounce — massive power spike.
+🩸 The Final Picture
+At level 10, raging Lizardfolk Barbarian with Beast Totem:
+
+Attacks: Claw +Claw +Bite (full attack at end of charge)
+
+AC: Natural armor stacking: +2 racial +3 (Beast Totem scaling) = +5 before gear.
+
+Damage: Easily in the 20–30 DPR range without magic, much higher with enhancement bonuses.
+
+Theme: You’ve fully become a primal, unarmed predator — tearing enemies apart with your own body.
+
+Would you like me to show how this stacks numerically — e.g., a level 10 full stat breakdown (attack bonuses, AC, damage, HP) — so you can see what kind of numbers you’ll be putting out with Beast Totem?
+
+
+would it be worthwhile to subclass into brawler?
+
+That’s a very sharp question, and the short answer is:
+
+✅ It can be worthwhile, but only in specific cases — and only if your GM allows archetypes or hybrid-class multiclassing.
+Otherwise, in pure Core-only play, multiclassing into Brawler from Barbarian gives some flavor and utility, but you lose a lot of your core barbarian power scaling, and the synergy is more “sideways” than upward.
+
+Let’s unpack this carefully — because you’re right at the crossroads of one of the most thematic but delicate PF1e build combinations.
+
+🥊 What the Brawler Brings (from Advanced Class Guide)
+Even though you said “mostly Core,” this class is so close to your theme that it’s worth analyzing in case your GM permits it.
+
+Core Strengths of Brawler
+Full BAB — same as Barbarian.
+
+Improved Unarmed Strike baked in (and scaling damage like a Monk).
+
+Brawler’s Flurry — allows two-weapon fighting with unarmed strikes (using full BAB progression).
+
+Martial Flexibility — the gem: temporarily gain any combat feat for a few rounds, a few times per day.
+
+Bonus Feats — from the combat list at 2nd, 5th, 8th, etc.
+
+Close Weapon Group — treats unarmed strikes and close weapons as one group for feat synergies.
+
+So Brawler gives you unarmed strike scaling, tons of feat adaptability, and flurry mechanics — exactly what a Lizardfolk grappler/brawler would love.
+
+💢 What You’d Lose from Barbarian
+When you multiclass out of Barbarian, you’re giving up:
+
+Rage Power progression (delays Beast Totem, Pounce, etc.)
+
+Rage rounds per day
+
+Damage Reduction
+
+The scaling Strength/Con bonuses from rage
+
+Movement bonus progression
+
+This is a big trade. The farther you go from Barbarian 10+, the more you lose the animalistic scaling and the Pounce + Natural Attack Monster Combo that makes you terrifying.
+
+🧩 The Synergy Case: “Barbarian (6–8) / Brawler (2–4)”
+Here’s the sweet spot if your GM allows multiclassing into Brawler:
+
+Build Goal:
+Use Barbarian for Rage, Beast Totem, and physical dominance,
+then dip Brawler for Unarmed scaling + feat flexibility.
+
+Example Progression:
+Level	Class	Benefit
+1–6	Barbarian 6	Rage, Beast Totem (claws), Reckless Abandon, etc.
+7–10	Brawler 4	Brawler’s Flurry, Martial Flexibility, scaling unarmed strike damage, bonus feats.
+Now your unarmed strikes count as manufactured and natural weapons for different situations, and your Martial Flexibility can grab things like Improved Grapple, Improved Trip, Weapon Focus, or Pummeling Style on demand.
+
+⚔️ What You Gain in Practice
+Unarmed Strike damage scaling → 1d6 → 1d8 by mid levels.
+
+Flurry lets you full-attack with more strikes at full BAB.
+
+Martial Flexibility lets you dynamically adapt feats every fight — incredible utility.
+
+Still Rage for +STR/+CON during combat (those bonuses apply to all attacks).
+
+Still keep Beast Totem claws for flavor and versatility.
+
+You can even Rage + Flurry together — completely legal, since Flurry is just an alternate full-attack routine.
+
+🧠 Example Attack Options at Level 10 (Barbarian 6 / Brawler 4)
+While Raging:
+
+STR ~22–24
+
+BAB +10 (6 + 4)
+
+Unarmed Strike +14/+14/+9 (Flurry), damage 1d8+10 (Power Attack)
+
+Bite (secondary) +12, 1d6+6 (if you include it)
+
+Natural Armor +3 (Beast Totem) +2 (Lizardfolk) = +5 base before gear
+
+So you’re throwing 3–4 attacks per round at solid bonuses, with massive damage and flexibility.
+
+🧱 Comparison Table
+Aspect	Pure Barbarian	Barb 6 / Brawler 4
+Rage Rounds	More	Fewer
+Rage Powers	4+	2
+Unarmed Scaling	Static 1d3	Grows to 1d8
+Natural Attacks	3 (claw/claw/bite)	3, but can combine w/ flurry
+Pounce (Greater Beast Totem)	✅	❌ (delayed or lost)
+Bonus Feats	❌	✅
+Martial Flexibility	❌	✅
+Overall DPR	High late-game	High mid-game, flexible
+🧬 Verdict
+Question	Answer
+Is it worthwhile mechanically?	✅ Yes, if you want more unarmed versatility and are okay delaying or losing Pounce.
+Is it optimal damage-wise?	❌ No — pure Barbarian with Beast Totem and Pounce wins for sheer damage.
+Is it fun and thematic?	🔥 Absolutely. The “feral martial artist” vibe is perfect for a Lizardfolk warrior.
+Is it Core-only legal?	❌ Not fully — Brawler is ACG, but your GM might allow it due to flavor.
+🪓 My Recommendation
+If your GM allows Brawler:
+→ Go Barbarian 6 / Brawler 4 — you get claws, rage, and flurry.
+It’s balanced, flavorful, and deadly.
+
+If Core-only:
+→ Stay pure Barbarian with the Beast Totem line, Improved Unarmed Strike, and Multiattack.
+You’ll hit harder, get Pounce at 10th, and still be terrifying up close.
+
+Would you like me to show a direct level-by-level comparison between Barbarian 10 and Barbarian 6 / Brawler 4 — including attack bonuses, DPR estimates, and AC — so you can see exactly what you’d gain or lose numerically by multiclassing?
+
+
+gm definitely allows brawler (but not monk fwiw)
+
+Perfect — that’s great news, and honestly, that unlocks the exact sweet spot for your concept.
+
+With Brawler allowed but Monk off the table, you can build the primal, unarmed juggernaut you’re envisioning: a Lizardfolk who rages, punches, claws, and bites his way through combat without ever needing a weapon.
+
+Let’s go over exactly how Barbarian + Brawler synergizes, where the breakpoints are, and which version gives you the most impact per level.
+
+🦎 Concept Summary
+Race: Lizardfolk (bite, +2 Str/+2 Con/–2 Int, +2 natural armor)
+Classes: Barbarian (for Rage, Beast Totem, and raw power) + Brawler (for scaling unarmed strikes and feat flexibility)
+Goal: Heavy melee damage via unarmed strikes and natural attacks, boosted by Rage, Power Attack, and Beast Totem.
+
+You become a kind of feral pit-fighter — faster and meaner than a Monk, tougher than a Fighter, and more flexible than a pure Barbarian.
+
+⚔️ Synergy at a Glance
+Mechanic	Barbarian Contribution	Brawler Contribution	Combined Effect
+Rage	+STR, +CON, +damage	—	Boosts unarmed and natural attack rolls & damage
+Natural Attacks	Beast Totem (claws), bite	—	Multiple primary attacks
+Unarmed Damage	Normally 1d3	Scales to 1d8	Fists actually hit hard
+Feats	Normal progression	Bonus + Martial Flexibility	You can “hot swap” situational feats
+Defense	Natural Armor (Beast Totem)	Medium Armor, good Fort/Ref saves	Solid overall durability
+Utility	Rage Powers	Flex feats (e.g., Trip, Grapple, Power Attack combos)	Adapt to any melee situation
+💪 Recommended Split: Barbarian 6 / Brawler 4
+This combo keeps your Rage Power progression up to Beast Totem (the middle step) while picking up the Brawler’s core utility at level 4.
+
+Level Breakdown
+Level	Class	Key Features	Notes
+1	Barbarian 1	Rage, Fast Movement	Start with Improved Unarmed Strike feat
+2	Barbarian 2	Rage Power: Lesser Beast Totem	Gain 2 claws (primary)
+3	Barbarian 3	Trap Sense +1	Feat: Power Attack
+4	Barbarian 4	Rage Power: Beast Totem	+1 natural armor while raging
+5	Barbarian 5	Improved Uncanny Dodge	Feat: Improved Natural Attack (Bite)
+6	Barbarian 6	Rage Power: Reckless Abandon	Huge offensive boost
+7	Brawler 1	Brawler’s Flurry, Martial Flexibility, Unarmed 1d6	Rage + Flurry = glorious
+8	Brawler 2	Bonus Combat Feat, Uncanny Dodge	Choose Weapon Focus (Unarmed) or Improved Grapple
+9	Brawler 3	Maneuver Training	Feat: Multiattack (if GM allows)
+10	Brawler 4	Bonus Combat Feat, Martial Flexibility 2/day, Unarmed 1d8	Grab Improved Trip, Pummeling Style, or Dodge situationally
+🧩 Combat Routine Options
+🐊 “Feral” (Natural Attack Focus)
+Use Rage + Beast Totem’s claws + bite.
+
+Attacks: Claw +Claw +Bite
+
+Base damage: 1d6+Str (claw), 1d6+Str (bite with Improved Natural Attack)
+
+When charging (no Greater Beast Totem yet): Single claw or bite attack only, unless you have Pounce (later)
+
+This is your “I’m an animal” mode.
+
+🥊 “Pit-Fighter” (Brawler Flurry Focus)
+Use Brawler’s Flurry with unarmed strikes (manufactured attack rules).
+Rage bonuses apply. You can still mix in your bite as a secondary attack.
+
+Full Attack Example (Level 10, Raging, STR 22):
+
+Unarmed +14/+14/+9 (1d8+10 each with Power Attack)
+
+Bite +12 (1d6+6)
+
+→ About 40–45 DPR baseline before buffs or enhancement bonuses.
+→ And you’re punching and biting things to death like a wild beast — which is exactly the flavor you want.
+
+💣 Martial Flexibility Tricks
+You can spend a swift action to gain a combat feat you meet prerequisites for, such as:
+
+Improved Trip / Grapple / Disarm — control mode.
+
+Dodge / Mobility — defense mode.
+
+Pummeling Style — burst damage (if allowed).
+
+Improved Critical (Unarmed) — boss fights.
+
+It’s like temporary multiclassing on demand.
+
+🛡️ Defense and Durability
+AC:
+
+Base armor + Natural Armor (+2 racial +1–3 from Beast Totem) + Dex
+
+You’ll end up around 21–23 AC mid-levels, very respectable for a bruiser.
+
+HP:
+
+10d12 + CON (20+) → easily over 120 HP by level 10 when raging.
+
+Saves:
+
+Excellent Fort, good Reflex from Brawler levels, weak Will (take Superstition rage power or Iron Will feat later).
+
+⚙️ Magic Item Synergy
+Amulet of Mighty Fists — enhances both unarmed and natural attacks.
+
+Belt of Giant Strength — self-explanatory.
+
+Cloak of Resistance — helps Will saves.
+
+Headband of Wisdom — minor, but helps Perception and Will.
+
+Brawling armor enhancement (if allowed) — adds untyped +2 to attack/damage for unarmed.
+
+🩸 Optional Alternate Splits
+Split	Pros	Cons
+Barbarian 8 / Brawler 2	Keeps more Rage Powers (possibly up to Greater Beast Totem and Pounce)	You lose Martial Flexibility scaling and unarmed damage stays at 1d6
+Barbarian 6 / Brawler 4	Most balanced; full Flurry and solid Rage	No Pounce until later
+Barbarian 4 / Brawler 6	More feats, better maneuvers	Weakens Rage duration and damage bonus
+If your GM ever allows you to continue to 12+, consider Barbarian 10 / Brawler 10 as an endgame — terrifyingly versatile.
+
+🪓 Verdict
+Category	Rating	Notes
+Theme	⭐⭐⭐⭐⭐	Perfect “feral brawler” fantasy
+Damage	⭐⭐⭐⭐	Slightly lower burst than pure Barbarian, but still excellent
+Defense	⭐⭐⭐⭐	High HP, solid AC, better saves
+Utility	⭐⭐⭐⭐⭐	Martial Flexibility is a godsend
+Ease of Play	⭐⭐⭐⭐	Straightforward, fun, reactive
+🔥 Final Take: Barbarian 6 / Brawler 4 is absolutely worth it — you trade a little late-game burst for a ton of versatility and flavor, and your damage stays competitive all campaign long.
+
+Would you like me to show a numerical combat breakdown (attack bonuses, damage averages, AC, HP, etc.) for this build at level 10, comparing “pure Barbarian” vs. “Barbarian 6 / Brawler 4”? It’ll make the trade-offs crystal clear in numbers.
+
+
+sure
+
+Awesome — here’s a clean, numbers-first comparison at level 10 for:
+
+A) Pure Barbarian 10 (Beast Totem line to Greater = Pounce)
+
+B) Barbarian 6 / Brawler 4 (Rage + Brawler’s Flurry + Martial Flexibility)
+
+I’ll state assumptions up front (so you can tweak if your table differs), then show attack routines, AC/HP, and DPR vs a typical CR-10 AC.
+
+Assumptions (reasonable, Core-friendly)
+Ability scores (pre-race, 20-pt vibe): Str 18, Dex 14, Con 14, Int 10, Wis 10, Cha 8
+
+Lizardfolk: +2 Str, +2 Con, –2 Int → Str 20, Dex 14, Con 16 at 1st
+
+Ability bumps at 4 & 8: both into Str → Str 22 at 10th (base)
+
+While raging (non-Unchained): +4 Str, +4 Con → Str 26 (or 28 if using Belt +2), Con 20
+
+Gear (level-10 typical):
+
+Belt of Giant Strength +2 (so Str 24 base, Str 28 raging, mod +9)
+
+Amulet of Mighty Fists +1 (enhancement to attack/damage for unarmed & natural)
+
+Breastplate +1, Ring of Protection +1
+
+Feats (both builds): Improved Unarmed Strike, Power Attack, Toughness, Improved Natural Attack (Bite).
+
+Reckless Abandon rage power taken as soon as possible.
+
+Multiattack taken on the Barb 6 / Brw 4 build (to smooth the bite as a secondary when flurrying).
+
+Beast Totem line:
+
+Pure Barbarian hits Greater Beast Totem (Pounce) at 10.
+
+Barb 6 / Brw 4 has Lesser (claws) and Beast (+NA), but not Greater yet.
+
+Numbers below are while raging and using Power Attack.
+
+A) Barbarian 10 (Greater Beast Totem / Pounce)
+Key toggles: Rage, Power Attack, Reckless Abandon (+2 atk / –2 AC at Barb 10), Amulet +1, Claw/Claw/Bite as primary naturals.
+Attack bonus (each):
+
+BAB +10, Str +9, Enh +1, RA +2, PA –3 → +19 to hit (I’ll keep the conservative +18 below if you skip Belt; with Belt it’s +19).
+
+Damage (each primary natural):
+
+Claw: 1d6 + Str + Enh + PA = 1d6 + 9 + 1 + 6 = 1d6+16
+
+Bite: (with Improved Natural Attack) 1d6+16 as well
+
+Full-attack (w/ Pounce on a charge): Claw + Claw + Bite at +19/+19/+19, each 1d6+16
+
+AC & HP snapshot (while raging):
+
+AC ≈ 20 (10 + 7 armor + 2 Dex + (2 racial NA + 2 Beast Totem at 10) +1 ring –2 Rage –2 Reckless)
+
+HP ≈ 100 base, ~+20 temp from Rage Con boost → about 120 in combat
+
+DPR vs AC 24 (typical CR-10): ~44–46 DPR (three swings at very high to-hit and big flat damage).
+Rule of thumb: This build bursts the hardest on the charge thanks to Pounce.
+
+B) Barbarian 6 / Brawler 4 (Flurry + bite secondary)
+Key toggles: Rage, Power Attack, Reckless Abandon +1 (Barb 6), Amulet +1, Brawler’s Flurry (–2 to all flurry attacks), Multiattack (reduces secondary natural penalty to –2).
+
+Unarmed (manufactured) Flurry attacks:
+
+BAB +10, Str +9, Enh +1, RA +1, PA –3, Flurry –2 → +16/+16/+11
+
+Unarmed damage (Brawler 4): 1d8 + 9 (Str) +1 (enh) +6 (PA) = 1d8+16
+
+Bite as secondary (in same routine):
+
+Uses BAB, gets –2 as secondary (Multiattack), no Flurry penalty
+
+To-hit: +10 +9 +1 +1 –3 –2 = +16
+
+Damage: 1d6 + ½Str (4) +1 (enh) +3 (½ PA) = 1d6+8
+
+Full-attack: Unarmed +16/+16/+11 (1d8+16) + Bite +16 (1d6+8)
+
+AC & HP snapshot (while raging):
+
+AC ≈ 20 (10 + 7 armor + 2 Dex + (2 racial NA + 1 Beast Totem at 6) +1 ring –2 Rage –1 Reckless)
+
+HP ≈ 96 base, ~+20 temp from Rage Con boost → about 116 in combat
+
+DPR vs AC 24: ~42 DPR
+Rule of thumb: Close to pure Barbarian’s output, but with more attacks, better feat flexibility, and stronger unarmed identity. You don’t have Pounce yet, so you’re less explosive on the opening charge.
+
+Side-by-side at a glance (AC 24 target)
+Build	Attack Routine	DPR (avg)	Notes
+Barbarian 10	Claw +19 (1d6+16), Claw +19 (1d6+16), Bite +19 (1d6+16); Pounce	~44–46	Biggest burst, full attacks on a charge
+Barb 6 / Brw 4	Unarmed +16/+16/+11 (1d8+16) + Bite +16 (1d6+8)	~42	Very close DPR; more flexible via Flurry + Martial Flexibility
+(If you skip Belt of Giant Strength +2, subtract ~1 from attack and ~1 damage per hit; DPR drops a bit but the relative comparison holds.)
+
+Bottom line
+If you want the nastiest charge turns and pure feral blender vibes: stay Barbarian 10 for Greater Beast Totem (Pounce).
+
+If you want a “pit-fighter” who adapts every fight, punches hard, and still bites: Barbarian 6 / Brawler 4 is absolutely worth it — DPR stays competitive, and you gain Flurry + Martial Flexibility without feeling squishier.
+
+If you want, I can tailor the numbers to your exact point-buy/rolled stats and gear and spit out a compact character sheet block (attacks, saves, AC, skills) you can drop right on your sheet.
+
+
+Would you recommend any barbarian archetypes if they are allowed?  I've been looking at: Invulnerable Rager, Brutal Pugilist, Sharptooth, Sea Reaver, Savage Attacker.  n.b. this will be seafaring/pirate themed campaign
+
+Excellent — that’s a fantastic lineup to be considering for a pirate-themed Lizardfolk Barbarian–Brawler. Let’s go over each of those archetypes, how they interact with your unarmed / natural-attack build, and which ones actually play nicely together for both mechanics and flavor.
+
+⚔️ Quick Archetype Compatibility Chart
+Archetype	Source	Compatible with Brawler Dip?	Works with Beast Totem?	Notes
+Invulnerable Rager	Advanced Player’s Guide	✅ Yes	✅ Yes	Keeps full Rage Power access, trades Trap Sense for huge DR
+Brutal Pugilist	Advanced Player’s Guide	✅ Yes	✅ Yes	Grapple & dirty trick specialist, thematic for pit-fighter
+Sharptooth	ARG (Lizardfolk)	✅ Yes	⚠️ Limited (natural focus overlap)	Focuses on bite + claws, some overlap with Beast Totem
+Sea Reaver	Pirates of the Inner Sea	✅ Yes	✅ Yes	Swashbuckling barbarian flavor, minor bonuses on ships
+Savage Attacker	Advanced Player’s Guide	✅ Yes	✅ Yes	Pure offensive focus, ignores difficult terrain when charging
+🛡️ 1. Invulnerable Rager (APG)
+Theme: “Iron-skinned berserker.”
+Mechanics:
+
+Replaces Trap Sense with damage reduction that scales twice as fast (DR 2/– at 2nd, +1 every 2 lvls).
+
+Loses Fast Movement.
+
+Otherwise keeps full Rage Power progression.
+
+Why it’s great for you:
+
+Synergizes beautifully with your already high Con and natural armor.
+
+Makes you much tankier in a brawl or boarding action.
+
+No conflict with Beast Totem or your bite/claw attacks.
+
+Verdict: ⭐⭐⭐⭐⭐
+
+Excellent pick. It’s the most universally useful and doesn’t change your play pattern.
+
+🥊 2. Brutal Pugilist (APG)
+Theme: “Arena wrestler and street-fighter.”
+Mechanics:
+
++1 CMB/CMD with grapple, bull rush, and dirty trick.
+
+Treats Improved Grapple, Improved Bull Rush, etc. as having Dex 13 when qualifying (helpful if you dump Dex).
+
+Gains Improved Unarmed Strike free at 2nd level (redundant if you already have it).
+
+Loses Uncanny Dodge and Improved Uncanny Dodge.
+
+Why it fits:
+
+Flavor-wise perfect for a Lizardfolk pit-fighter.
+
+You already plan on unarmed attacks, so this reinforces that theme.
+
+Slightly softens defenses (no Uncanny Dodge), but your DR from Invulnerable Rager can offset it if combined.
+
+Verdict: ⭐⭐⭐⭐
+
+Great thematic layer if your campaign involves grappling or dirty-trick boarding tactics.
+
+(You can combine Invulnerable Rager + Brutal Pugilist; they modify different features.)
+
+🦷 3. Sharptooth (ARG – Lizardfolk racial archetype)
+Theme: “Primal predator who fights with natural weapons.”
+Mechanics:
+
+Gains a bite and claws early that scale slightly with level.
+
+Loses Fast Movement, Trap Sense, and some Rage Power flexibility.
+
+Why it’s mixed for you:
+
+You already have a racial bite and will get claws from Lesser Beast Totem, so it’s redundant.
+
+You lose the Rage Power slots that make Beast Totem work.
+
+Verdict: ⭐⭐
+
+Thematically fine but mechanically wasteful for your concept. Skip this unless you drop the Beast Totem line entirely.
+
+🌊 4. Sea Reaver (Pirates of the Inner Sea)
+Theme: “Oceanic barbarian raider.”
+Mechanics:
+
+Bonuses on Profession (Sailor), Swim, and Intimidate aboard ships.
+
+Can rage while swimming and gains water-based movement bonuses.
+
+Some flavor abilities tied to terrifying foes during boarding.
+
+Why it fits:
+
+Perfect for a seafaring campaign.
+
+Doesn’t replace key combat features, so it’s low-impact mechanically.
+
+Rage Powers and Beast Totem remain untouched.
+
+Verdict: ⭐⭐⭐⭐
+
+Excellent flavor overlay if your GM values nautical immersion more than raw optimization.
+
+💥 5. Savage Attacker (APG)
+Theme: “Relentless charger.”
+Mechanics:
+
+Gains bonuses to charge attacks and ignores difficult terrain while charging.
+
+Loses Trap Sense.
+
+Works well with Pounce (Greater Beast Totem) for devastating openers.
+
+Why it fits:
+
+Synergizes beautifully with Beast Totem’s eventual Pounce.
+
+Very offense-forward; pairs well with Reckless Abandon.
+
+Verdict: ⭐⭐⭐⭐
+
+If you keep the Barbarian levels high (to reach Pounce), this archetype gives extra spice to your charge routines.
+
+🧬 Recommended Combos for Your Concept
+Combo	Description	Notes
+Invulnerable Rager + Brutal Pugilist	“Iron-hide pit-fighter.” DR stacking, strong grapples, unarmed brutality.	Best mechanical pairing.
+Invulnerable Rager + Sea Reaver	“Sea-serpent berserker.” Durable swimmer with shipboard bonuses.	Great if campaign is heavily nautical.
+Savage Attacker (alone)	“All-offense charger.”	Only if you plan to stay pure Barbarian 10 + to hit Pounce.
+Sharptooth	Redundant with Beast Totem.	Skip.
+🏴‍☠️ Recommended for Your Build
+✅ Invulnerable Rager + Brutal Pugilist
+
+Mechanically, you’ll get:
+
+Big DR scaling (2 → 6 → 8 → 10)
+
+Free Improved Unarmed Strike redundancy (harmless overlap)
+
+Boosted CMB for grapple/bull rush aboard ships
+
+Keeps Rage Powers (so you still take the Beast Totem line)
+
+Works perfectly with your Brawler multiclass
+
+Then, if you want pirate flavor, just skin your character as a sea-raider gladiator — you don’t need Sea Reaver mechanically, but you can borrow its motifs (tattoos, sea-beast trophies, ritual scars, etc.).
+
+Would you like me to put together a final archetype-merged progression (Barbarian 6 [Invulnerable Rager + Brutal Pugilist] / Brawler 4) showing the exact Rage Powers, DR scaling, and feature swaps that stack cleanly?
+
+
+Oh actually I meant "savage barbarian" archetype, not savage attacker
+
+Ah — perfect clarification! You meant Savage Barbarian, not Savage Attacker — that makes a big difference.
+
+Savage Barbarian is a real archetype from Advanced Player’s Guide, and it’s quite different from the charging-focused “Savage Attacker.” Let’s break it down properly and see how it compares to your other picks, especially in a seafaring / unarmed Lizardfolk context.
+
+💀 Savage Barbarian (APG)
+Theme:
+A truly feral warrior who fights without armor — a primal hunter rather than a disciplined soldier.
+This is the archetype for a wild, bare-chested, rage-driven fighter who relies on sheer toughness and fury to shrug off hits.
+
+🧩 Class Feature Changes
+Replaces	With
+Armor Proficiency	Loses proficiency with medium and heavy armor (light armor only).
+Fast Movement	Gains Fast Movement at level 1 that still works while wearing armor.
+Damage Reduction (DR)	Loses DR/– entirely.
+Uncanny Dodge / Improved Uncanny Dodge	Unchanged.
+Trap Sense	Becomes Savage Resilience — gain DR/– equal to half your Trap Sense bonus (so +1 at 3rd, +2 at 6th, etc.) when not wearing armor or using shields.
+⚙️ What It Means Practically
+Pros:
+
+Keeps your Fast Movement and improves it slightly for light armor use.
+
+You can wear light armor (e.g. hide or chain shirt) and still move freely.
+
+Savage Resilience gives a small DR/– bonus if you fight unarmored.
+
+Fits the flavor of a bare-chested, scarred Lizardfolk warrior who doesn’t need steel to survive.
+
+Keeps full Rage Power access — works fine with Beast Totem.
+
+Perfect synergy with your unarmed “brawler from the depths” theme.
+
+Cons:
+
+Loses full-scale Barbarian DR. Invulnerable Rager will tank better.
+
+You’ll have slightly lower AC if you go fully unarmored (and even with light armor, it’s modest).
+
+Not ideal if your campaign leans into attrition or ranged combat (you’ll get hit more often).
+
+⚔️ How It Interacts with Your Build
+Aspect	Impact
+Unarmed / Natural Attack synergy	Great — no armor interference, freedom of movement, fits flavor perfectly.
+Beast Totem line	Fully compatible; no feature overlap.
+Brawler multiclass	Seamless; Brawler doesn’t care about armor type and adds its own scaling AC if you go light.
+Seafaring / Pirate theme	Excellent flavor fit — swimming and climbing are easier with lighter armor; describes a “sea reptile” barbarian aesthetic.
+Durability	Lower DR and AC than Invulnerable Rager, but higher speed and mobility.
+⚓ Comparison to Invulnerable Rager and Brutal Pugilist
+Archetype	Theme	Pros	Cons
+Invulnerable Rager	Iron-skinned tank	Massive DR, great survivability	Slightly slower, heavier feel
+Brutal Pugilist	Grappling pit-fighter	Unarmed/grapple bonuses, thematic	Loses Uncanny Dodge
+Savage Barbarian	Primal unarmored berserker	Mobility, no armor slowdown, pirate aesthetic	Less DR, lower AC overall
+🦎 Pirate / Lizardfolk Context
+For a seafaring reptilian warrior, Savage Barbarian is phenomenal flavor.
+Mechanically, it makes a lot of sense too — you’ll often be:
+
+Fighting in or near water (where armor check penalties and weight hurt).
+
+Wanting to swim and climb easily.
+
+Relying on Rage HP buffer and mobility instead of armor.
+
+If your GM lets you combine it with Brutal Pugilist (they don’t conflict), you get a “feral pit-fighter of the sea” build:
+
+Savage Barbarian (Brutal Pugilist) — shirtless, scarred, amphibious grappler-brawler who leaps onto ships and tears sailors apart barehanded.
+
+You’ll have:
+
+Rage & Beast Totem line (claws, natural armor, possibly Pounce later)
+
+Brawler’s Flurry (when you multiclass)
+
+Excellent swim speed / maneuverability (light or no armor)
+
+Pure primal style that fits a Lizardfolk sea raider to the hilt
+
+💬 Recommendation Summary
+Goal	Recommended Archetype
+Tankiest / DR-focused	Invulnerable Rager
+Unarmed Grappler / Pit-fighter	Brutal Pugilist
+Thematic Pirate / Ferocious Swimmer	Savage Barbarian ✅
+Optimal Power / Damage / Beast Totem synergy	Invulnerable Rager (still slightly ahead numerically)
+🧭 TL;DR
+⚓ For your Lizardfolk Barbarian–Brawler, pirate-themed, unarmed combatant,
+Savage Barbarian is an excellent pick — flavorful, mechanically clean, and 100% compatible with Brawler and Beast Totem.
+
+If you want the best of both worlds:
+
+Savage Barbarian (Brutal Pugilist) for theme + mechanics
+then multiclass into Brawler after level 6.
+
+You’ll end up a shirtless, scarred, amphibious pit-fighter who rages across ship decks and boarding lines — no armor, no fear, all teeth and fists.
+
+Would you like me to show exactly how that combination (Savage Barbarian [Brutal Pugilist] 6 / Brawler 4) looks level-by-level — features, Rage Powers, AC/damage expectations, and flavor notes for each milestone (like “boarding fighter,” “arena terror,” etc.)?
+
+
+
+

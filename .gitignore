@@ -1,0 +1,5 @@
+sheet_*.ods
+sheet_*.csv
+sheets/
+*.gsheet
+*.png
