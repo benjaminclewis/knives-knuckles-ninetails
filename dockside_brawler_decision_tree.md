@@ -188,15 +188,19 @@ Brawlers can flex into any combat feat for 1 minute, even without meeting all pr
 | Fighting invisible foe or in darkness | **Blind-Fight** | Reroll miss chance from concealment |
 | Foe has reach and is controlling the zone | **Lunge** | Extend reach by 5 ft for a round — hit them without stepping in |
 
-### Pre-Existing Feats to Remember
+### Pre-Existing Feats to Augment
 
-The character already has or will have these, so flexing into the "Improved" versions for an extra +2 is an option:
+The character already has (or will have) the "Improved" maneuver feats, which prevent attacks of opportunity. Flexing the "Greater" version on top adds extra bonuses — and because Martial Flexibility bypasses prerequisites, the Greater version can be flexed directly without taking it as a permanent feat.
 
-| Already Have | Flex Into (for +2 bonus) |
-|-------------|--------------------------|
-| Improved Grapple | Greater Grapple (move-action grapple maintenance) |
-| Improved Overpowering Maneuvers | Greater Bull Rush / Greater Overrun / Greater Sunder |
-| Power Attack | Furious Focus (negate PA penalty on first attack each round) |
+**Important:** Greater maneuvers typically add +2 and a special effect, but do NOT include the AoO protection from the Improved version. Only flex a Greater feat if the Improved version is already held, or flex both together (2 feats at level 6+).
+
+| Already Have | Flex Into | Combined Effect |
+|-------------|-----------|-----------------|
+| Improved Grapple (+2, no AoO) | Greater Grapple | Additional +2 (total +4), maintain grapple as a move action |
+| Improved Overpowering (+2, no AoO to bull rush/overrun/sunder) | Greater Bull Rush | Additional +2 to bull rush; enemies bull rushed by the character provoke AoOs from allies |
+| Improved Overpowering | Greater Overrun | Additional +2 to overrun; knocked-down foes lose their entire turn |
+| Improved Overpowering | Greater Sunder | Additional +2 to sunder; excess damage transfers to the target |
+| Power Attack | Furious Focus | Negate Power Attack's attack penalty on the first attack each round |
 
 ### Flex Tips
 
