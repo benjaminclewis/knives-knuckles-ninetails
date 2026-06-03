@@ -7,7 +7,6 @@
 | Ability | Level | Notes |
 |---------|-------|-------|
 | Martial Flexibility | 1+ | Move action (1 feat) until 6; swift (2 feats) at 6+ |
-| Grapple Resistance | 1+ (if GM allows) | Brawler favoured class; pending GM approval |
 | Flurry (TWF) | 2+ | Default full-attack mode |
 | Brawler's Slam | 3+ | Full-round until 7, then standard action |
 | Knockout | 4+ | 1/day; 2/day at level 10 |
@@ -31,7 +30,6 @@
 - **Bite:** Free secondary attack at -5 for 1d3 + half STR at the end of any full attack.
 - **Martial Flexibility:** Missing a maneuver feat for the situation? Flex into it. Move action at levels 1-5, swift action at 6+.
 - **Dockside Brawler trait:** +1 damage with brass knuckles and improvised weapons — always applies.
-- **Grapple Resistance:** If GM allows Brawler favoured class, add half Brawler level to CMC vs grapples.
 - **Iron Will:** +2 Will saves, always on. Combined with Rage (+2 morale Will) = +4 over baseline when raging.
 - **Hack (if taken):** Free extra melee attack at full BAB whenever a foe is KO'd. Strong with Flurry.
 - **Strength Surge (if taken, Barb 2+):** Add Barbarian level to one CMB check per rage — guarantee a critical grapple.
@@ -166,7 +164,6 @@ If the opponent consistently escapes, switch to Flurry or Slam — grappling som
 - **Battered:** < 50% HP → -2 all saves (if enforced; not used in previous campaign).
 - **Massive Damage:** 30+ damage (Medium) → Fort save or disabled + injury (-2 attacks, 1d6 CON drain)
 - **Dockside Brawler trait:** +1 trait damage with brass knuckles and improvised weapons
-- **Grapple Resistance:** +1/2 Brawler level to CMC vs grapples (if GM allows Brawler favoured class)
 - **Iron Will:** +2 Will saves. Combined with Rage's +2 morale Will = +4 over baseline when raging.
 - **Bite:** 1d3 + half STR as secondary (-5) on any full attack; in a grapple, 1.5× STR on Damage maneuver.
 - **Inferior Vision:** -4 saves vs illusion spells

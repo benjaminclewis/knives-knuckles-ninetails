@@ -39,11 +39,7 @@ Lizardfolk Brawler with campaign modifications:I ma
 - Languages: Lizardfolk (native), trade common or maritime common (free), draconic/koboldic/nearby human (Int bonus)
 - **Favoured Classes (by RAW): Barbarian, ranger, or fighter** — see note below
 
-** Favoured Class Note:** Legendspring Lizardfolk list favoured classes as Barbarian, ranger, or fighter — Brawler is not included. GM may not allow.
-
-**If GM denies Brawler as favoured class:** Pick Barbarian as favoured class at level 1. The character won't get any favoured class benefit for Brawler levels 1-5, but when taking Barbarian 1 at level 6, they may take the standard **+1 HP** option. The Barbarian-specific benefits are useless with a 1-level dip: extra rage rounds rounds down to 0 until Barbarian 2, fast movement and trap sense bonuses are negligible at 1 level. The Brawler "grapple resistance" benefit (+1/2 Brawler level to CMC vs grapples) is lost — this is the real cost.
-
-**If GM allows Brawler as favoured class:** Take option #4 (0.5 HP or 1 proficient skill + special benefit) with "Grapple resistance" — add 1/2 Brawler level to CMC vs grapples. Strong synergy with Improved Grapple.
+**Favoured Class:** Barbarian. Lizardfolk don't list Brawler as a favoured class, and the GM declined to approve it. Pick Barbarian as favoured class at level 1. The standard **+1 HP** favoured class benefit applies when taking Barbarian levels. No favoured class benefit applies during Brawler levels 1-5.
 
 ### Ability Scores (Rolled)
 

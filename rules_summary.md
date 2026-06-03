@@ -152,13 +152,11 @@ When taking a level in their favoured class, a character chooses one benefit:
 
 ### Brawler Special Favoured Class Benefits
 
-Choose one at character creation if Brawler is the favoured class and option #4 was selected above:
+*Not available for this character — Lizardfolk favoured classes are Barbarian, ranger, or fighter. Listed for reference only.*
 
 1. **Overcome Hardness:** Overcome hardness equal to 1/2 Brawler level with unarmed strikes.
-2. **Grapple Resistance (recommended):** Choose a class of combat maneuvers (e.g., grapple). Add 1/2 Brawler level to CMC to resist or avoid those combat maneuvers.
-3. **Enhanced Dodge:** Increase the dodge bonus from Brawler's AC Bonus by 1.5× (e.g., +1 becomes +1.5, effectively +1 rounded down at low levels, but +2 → +3, +3 → +4, etc.).
-
-> **Lizardfolk limitation:** Lizardfolk favoured classes are Barbarian, ranger, or fighter by RAW. GM consultation in progress for allowing Brawler.
+2. **Grapple Resistance:** Choose a class of combat maneuvers (e.g., grapple). Add 1/2 Brawler level to CMC to resist or avoid those combat maneuvers.
+3. **Enhanced Dodge:** Increase the dodge bonus from Brawler's AC Bonus by 1.5×.
 
 ---
 
@@ -459,7 +457,7 @@ As a Medium Lizardfolk Brawler, the numbers are:
 - **DCM** = BAB + DEX + 0 (Medium)
 - **CMC** = 10 + BAB + STR + DEX
 
-**Defensive Combat Training** adds +2 competence to DCM. If GM allows Brawler favoured class with "grapple" chosen, add 1/2 Brawler level to CMC vs grapple maneuvers.
+**Defensive Combat Training** adds +2 competence to DCM.
 
 ---
 
