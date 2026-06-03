@@ -106,6 +106,7 @@ Can the character full attack safely?
    - **Need to reposition:** Move (move action) — drag them at half speed.
    - **Want them on the ground:** Throw (standard) — puts them prone 5+ ft away, breaking the grapple. Or Drop (move) to go prone together (useful if allies are waiting to dogpile).
 3. **Strength Surge (if taken):** Pop this to guarantee a critical Hold, Pin, or Choke — 1/rage, use when the maneuver must land.
+4. **Body Shield (flex into it):** After Hold is established, flex into Body Shield (prereq: Improved Grapple) to gain +4 AC and +2 Reflex by using the grappled opponent as cover. Makes the character much harder to hit while choking out a target.
 
 ### Important Reminders
 - **Each round without a successful grappling action → the opponent gets a free escape attempt.** Always take at least one grappling action per round.
@@ -187,6 +188,13 @@ Brawlers can flex into any combat feat for 1 minute, even without meeting all pr
 | Moving through a threatened gauntlet | **Mobility** | +4 AC vs AoOs from movement (stacks with Defensive Mobility's DCM check) |
 | Fighting invisible foe or in darkness | **Blind-Fight** | Reroll miss chance from concealment |
 | Foe has reach and is controlling the zone | **Lunge** | Extend reach by 5 ft for a round — hit them without stepping in |
+| Grappling a dangerous foe, need defense | **Body Shield** | +4 AC and +2 Reflex while grappling — use the opponent as cover |
+
+### DR-Heavy Enemies
+
+| Situation | Flex Into | Effect |
+|-----------|-----------|--------|
+| Foe has DR/— or DR/bludgeoning | **Pummeling Style** | Pool all unarmed hits against one target into a single damage total before applying DR. Qualifies via Brawler's Flurry at level 2 |
 
 ### Pre-Existing Feats to Augment
 

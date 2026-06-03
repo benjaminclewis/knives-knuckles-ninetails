@@ -316,6 +316,15 @@ After Brawler 8's Flurry upgrade at level 9, further Barbarian levels are the mo
 
 - **Combat Reflexes** — With the campaign version using lower of Dex/Int, a Lizardfolk with -2 Int needs 2+ ASIs in INT just to get 1 extra AoO. The base 1 AoO/round is sufficient. Only consider this if starting with INT 14+ (before racial) and willing to invest further.
 
+## Flex-Only Options (Not Worth Permanent Slots, But Useful via Martial Flexibility)
+
+These feats are situationally strong but not worth sacrificing a permanent feat slot for. Flex into them when the situation calls for it.
+
+- **Body Shield** (APG) — Prereq: Improved Grapple. While grappling, gain +4 AC and +2 Reflex by using the opponent as cover. Flex after establishing Hold for a big defensive spike.
+- **Pummeling Style** (Ultimate Combat) — Prereq: Improved Unarmed Strike + (BAB +6 or Flurry). Pool all unarmed hits against a single target before applying DR. Flex when facing DR/— or DR/bludgeoning that Brawler's Strike doesn't bypass.
+- **Great Cleave** — Prereq: Power Attack, BAB +4. Chain attacks through adjacent foes with no per-round limit. Flex when swarmed by mooks.
+- **Lunge** — Prereq: BAB +6. Extend reach by 5 ft for one round. Flex against reach enemies or when movement isn't an option.
+
 ---
 
 # PREREQUISITE CHECKLIST
