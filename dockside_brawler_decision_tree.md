@@ -169,8 +169,7 @@ Brawlers can flex into any combat feat for 1 minute, even without meeting all pr
 
 | Situation | Flex Into | Effect |
 |-----------|-----------|--------|
-| Swarmed by mooks, need to clear space | **Cleave** | Hit one, carry over to adjacent target |
-| Dropping foes every round (after KO chain starts) | **Great Cleave** | No limit on cleave attempts per round |
+| Swarmed by mooks, need to clear space | **Great Cleave** | Chain through adjacent enemies with no per-round limit |
 | Flanked and want to reduce the threat | **Combat Expertise** | Trade attack for AC if things get too hot |
 
 ### Specific Maneuvers Needed
