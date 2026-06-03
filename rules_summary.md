@@ -171,9 +171,34 @@ When taking a level in their favoured class, a character chooses one benefit:
 | **Rage** | +4 Str, +4 Con, +2 morale Will, -2 AC. Free action to activate. 4 + Con mod rounds/day. |
 | **Fast Movement** | +10 ft. speed in medium or lighter armor |
 
-### Campaign Barbarian Revision
+### Barbarian 2
 
-- **Damage Reduction:** Barbarians gain DR 1/— at level 4, scaling by +1 every 3 levels (DR 2/— at 7, DR 3/— at 10, etc.).
+| Feature | Effect |
+|---------|--------|
+| **Uncanny Dodge** | Never flat-footed; retains DEX to AC against invisible attackers. |
+| **Rage Power** | First rage power selection. Recommended: Strength Surge or Knockback (see below). |
+
+### Barbarian 3
+
+| Feature | Effect |
+|---------|--------|
+| **Trap Sense +1** | +1 to Reflex saves and AC vs traps. Minor filler level. |
+
+### Barbarian 4
+
+| Feature | Effect |
+|---------|--------|
+| **Rage Power** | Second rage power selection. |
+| **DR 1/—** (campaign revision) | Stacks with Studded Leather's DR 1/— for DR 2/— against all physical damage. |
+
+### Recommended Rage Powers
+
+| Power | Prereqs | Effect |
+|-------|---------|--------|
+| **Strength Surge** | None | Add Barbarian level to one CMB check per rage. Guarantee a critical grapple, trip, or bull rush. |
+| **Knockback** | Power Attack, BAB +6 | Every Power Attack hit triggers a free bull rush attempt. Flurry + PA = 2-3 pushes per round. |
+| **Reckless Abandon** | None | Trade up to BAB in AC for equal attack bonus. Toggle per round. |
+| **Renewed Vigor** | None | Heal 1d8 + CON HP as a standard action, once per rage. Emergency sustain. |
 
 ---
 
