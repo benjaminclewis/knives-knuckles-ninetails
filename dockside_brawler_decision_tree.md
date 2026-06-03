@@ -28,7 +28,7 @@
 - **Flanked resistance:** At BAB +1-5, flanked by 2+ enemies. At BAB +6+ (level 6), flanked by **3+ enemies**. Much harder to swarm than core PF1e.
 - **Battered at < 50% HP:** -2 to all saves (if enforced — not used in previous campaign). Rage helps offset (+2 morale Will).
 - **Bite:** Free secondary attack at -5 for 1d3 + half STR at the end of any full attack.
-- **Martial Flexibility:** Missing a maneuver feat for the situation? Flex into it. Move action at levels 1-5, swift action at 6+.
+- **Martial Flexibility:** Missing a maneuver feat for the situation? Flex into it. Move action at levels 1-5, swift action at 6+. See Martial Flexibility Scenarios below for common uses.
 - **Dockside Brawler trait:** +1 damage with brass knuckles and improvised weapons — always applies.
 - **Iron Will:** +2 Will saves, always on. Combined with Rage (+2 morale Will) = +4 over baseline when raging.
 - **Hack (if taken):** Free extra melee attack at full BAB whenever a foe is KO'd. Strong with Flurry.
@@ -151,6 +151,60 @@ If the opponent consistently escapes, switch to Flurry or Slam — grappling som
 | 9 | Flurry (Imp. TWF), Bonus feat | Second iterative in flurry — big power spike |
 | 10 | Brawler 9: Knockout 2/day, AC +2 — OR — Barbarian 2: Uncanny Dodge, first Rage Power | Choose between Brawler capstone or Barbarian expansion |
 | 11+ | Barbarian 2-4: Rage Powers, DR 1/— at Barb 4 | Strength Surge (guaranteed grapple), Knockback (free bull rushes) |
+
+---
+
+## Martial Flexibility Scenarios
+
+Brawlers can flex into any combat feat for 1 minute, even without meeting all prerequisites. Below are common situations and the best feats to reach for.
+
+### Enemy Casters
+
+| Situation | Flex Into | Effect |
+|-----------|-----------|--------|
+| Caster keeps casting defensively | **Disruptive** | +4 to CMC to disrupt defensive casting in threatened squares |
+| Need to shut down a caster entirely | **Step Up** | Follow a 5-foot-stepping caster, staying in their face |
+
+### Multiple Enemies
+
+| Situation | Flex Into | Effect |
+|-----------|-----------|--------|
+| Swarmed by mooks, need to clear space | **Cleave** | Hit one, carry over to adjacent target |
+| Dropping foes every round (after KO chain starts) | **Great Cleave** | No limit on cleave attempts per round |
+| Flanked and want to reduce the threat | **Combat Expertise** | Trade attack for AC if things get too hot |
+
+### Specific Maneuvers Needed
+
+| Situation | Flex Into | Effect |
+|-----------|-----------|--------|
+| Enemy has a dangerous weapon | **Improved Sunder** | Break it (note: Imp. Overpowering already covers no-AoO; this adds +2) |
+| Need to reposition foe into hazard/water | **Improved Bull Rush** | +2 to push (Imp. Overpowering already covers no-AoO) |
+| Ally needs a flanking partner | **Improved Trip** | Put an enemy on the ground for allies to dogpile |
+
+### Defensive / Utility
+
+| Situation | Flex Into | Effect |
+|-----------|-----------|--------|
+| Moving through a threatened gauntlet | **Mobility** | +4 AC vs AoOs from movement (stacks with Defensive Mobility's DCM check) |
+| Fighting invisible foe or in darkness | **Blind-Fight** | Reroll miss chance from concealment |
+| Foe has reach and is controlling the zone | **Lunge** | Extend reach by 5 ft for a round — hit them without stepping in |
+
+### Pre-Existing Feats to Remember
+
+The character already has or will have these, so flexing into the "Improved" versions for an extra +2 is an option:
+
+| Already Have | Flex Into (for +2 bonus) |
+|-------------|--------------------------|
+| Improved Grapple | Greater Grapple (move-action grapple maintenance) |
+| Improved Overpowering Maneuvers | Greater Bull Rush / Greater Overrun / Greater Sunder |
+| Power Attack | Furious Focus (negate PA penalty on first attack each round) |
+
+### Flex Tips
+
+- **Pre-flex before doors or known ambushes.** The feat lasts 1 minute. Flex *before* kicking in the door.
+- **Swift action at level 6+ means flexing doesn't cost an attack.** At that point, flex reactively — see the situation, swift-flex the counter, then attack.
+- **Don't forget you can flex 2 feats at level 6+.** For casters, flex Disruptive + Step Up simultaneously.
+- **Flex can test feats before committing.** Not sure about taking Hack at level 7? Flex into it for a fight and see how often it triggers.
 
 ---
 
