@@ -124,8 +124,8 @@ If the opponent consistently escapes, switch to Flurry or Slam — grappling som
 
 | Option | When to Use | Available | Damage Profile |
 |--------|-------------|-----------|----------------|
-| **Rage + Slam + Power Attack** | Maximum single-hit burst | Level 6+ (Rage online) | Slam dice + 1.5×STR + Rage STR + Power Attack |
-| **Rage + Flurry + Power Attack** | Sustained pressure with burst | Level 6+ | Multiple attacks, each with rage + PA bonuses |
+| **Rage + Slam + Power Attack** | Maximum single-hit burst | Level 4+ (Rage at 3, Slam at 4) | Slam dice + 1.5×STR + Rage STR + Power Attack |
+| **Rage + Flurry + Power Attack** | Sustained pressure with burst | Level 3+ (Rage online) | Multiple attacks, each with rage + PA bonuses |
 | **Flurry + Power Attack** | Pre-Rage (levels 2-5) | Level 2+ | Standard flurry with PA |
 | **Slam + Power Attack** | Pre-Rage, high AC/DR target | Level 3+ | Single accurate hit; full-round until level 7 |
 | **Knockout** | Fort-save-or-lose | Level 4+ (1/day) | Declare before attack; if it hits, DC 10 + half level + Str vs unconscious |
@@ -143,10 +143,10 @@ If the opponent consistently escapes, switch to Flurry or Slam — grappling som
 |------------|------------|--------------|
 | 1 | Power Attack, IUS 1d6 | Move + single attack (no Flurry yet) |
 | 2 | Flurry (TWF), Bonus feat | Full attack Flurry if possible |
-| 3 | Slam (1d8, full-round) | Flurry for pressure, Slam for one big hit |
-| 4 | Knockout 1/day, AC +1 | Save Knockout for the right moment |
-| 5 | Magic strikes, Close Weapon Mastery, Catch Off-Guard online | Brass knuckles now 1d6+1, improvised only -1 to hit |
-| 6 | **Rage** (Barbarian dip; still Brawler 5) | Boss fights: Rage + Flurry |
+| 3 | **Rage** (Barbarian dip), Fast Movement | Boss fights: Rage + Flurry |
+| 4 | Brawler 3: Slam (1d8, full-round), Maneuver Training | Flurry for pressure, Slam for one big hit |
+| 5 | Brawler 4: Knockout 1/day, AC +1; Catch Off-Guard (feat) | Save Knockout for the right moment; improvised -1 to hit |
+| 6 | Brawler 5: Magic strikes, Close Weapon Mastery | Brass knuckles now scale to unarmed dice |
 | 7 | Brawler 6: **Martial Flexibility swift**; Iron Will or Hack (feat) | Swift-flex reactively; extra KO attacks (Hack) or safer saves (Iron Will) |
 | 8 | Maneuver Training 2 (flurry at -2/-2) | Flurry accuracy improves |
 | 9 | Flurry (Imp. TWF), Bonus feat | Second iterative in flurry — big power spike |

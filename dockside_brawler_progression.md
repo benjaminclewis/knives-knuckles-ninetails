@@ -93,7 +93,7 @@ Studded Leather: +3 AC, **DR 1/—**, Max DEX +5, ACP -1. Works fully with Brawl
 
 The campaign offers both standard multiclassing and polyclassing. Polyclass secondary levels are cheaper in XP but grant **no BAB, saves, hit dice, or skills** — only class features. Since both Brawler and Barbarian are full-BAB martials, standard multiclassing preserves attack bonus, save, and HP progression. The ~9,000 XP premium for the first dip level is worth keeping full martial scaling.
 
-Additional Barbarian levels beyond the level 6 dip can be taken whenever Rage powers are desired — standard multiclass costs apply, but Brawler remains the primary class throughout.
+Additional Barbarian levels beyond the level 3 dip can be taken whenever Rage powers are desired — standard multiclass costs apply, but Brawler remains the primary class throughout.
 
 ### XP Progression (Standard Multiclass)
 
@@ -101,10 +101,10 @@ Additional Barbarian levels beyond the level 6 dip can be taken whenever Rage po
 |----------|------------|---------------|----------|
 | 1 | Brawler 1 | — | 0 |
 | 2 | Brawler 2 | 3,000 | 3,000 |
-| 3 | Brawler 3 | 4,500 | 7,500 |
-| 4 | Brawler 4 | 6,500 | 14,000 |
-| 5 | Brawler 5 | 9,000 | 23,000 |
-| 6 | Barbarian 1 | 12,000 | 35,000 |
+| 3 | Barbarian 1 (dip) | 4,500 | 7,500 |
+| 4 | Brawler 3 | 6,500 | 14,000 |
+| 5 | Brawler 4 | 9,000 | 23,000 |
+| 6 | Brawler 5 | 12,000 | 35,000 |
 | 7 | Brawler 6 | 18,000 | 53,000 |
 | 8 | Brawler 7 | 24,000 | 77,000 |
 | 9 | Brawler 8 | 38,000 | 115,000 |
@@ -154,53 +154,58 @@ Priority options:
 
 ---
 
-# LEVEL 3 — BRAWLER 3
+# LEVEL 3 — BARBARIAN 1 (the early dip)
+
+Taken right after Brawler 2, so the core engine (IUS, Brawler's Flurry, Improved Grapple) is already online and only Rage comes early. This puts Rage three levels sooner than a level-6 dip and starts the Barbarian favoured-class benefit at level 3 instead of idling it.
+
+## Class Features
+- **Rage** (burst combat mode: +4 Str/Con, +2 Will, -2 AC; 4 + Con mod = 6 rounds/day). A major survivability and damage spike in the low-level grind, and the +2 morale Will helps the weak save.
+- Fast Movement (+10 ft. in medium or lighter armor)
+- Note: campaign Barbarian gets Uncanny Dodge at Barb 2, rage powers at Barb 2/4, and DR 1/— at Barb 4 — all reached via the continuation's Barbarian levels (see Levels 11–15)
+
+## Feat (Level 3 — regular)
+**Recommended: Defensive Combat Training**
+- No prereqs. +2 competence bonus to DCM; prereq for Defensive Mobility.
+- **Why not Catch Off-Guard?** The campaign version requires BAB +4. At level 3, BAB is only +3 — Catch Off-Guard comes at level 5.
+
+---
+
+# LEVEL 4 — BRAWLER 3
 
 ## Class Features
 - **Maneuver Training 1** (flurry attack penalty reduced to -1)
 - **Brawler's Slam** (1d8, 1.5× STR scaling) — full-round action
 
-## Feat (Level 3)
-**Recommended: Defensive Combat Training**
-- No prereqs. +2 competence bonus to DCM.
-- **Why not Catch Off-Guard?** The campaign version of Catch Off-Guard requires BAB +4. At level 3, BAB is only +3. Catch Off-Guard comes at level 5 instead.
+*(Level 4 is an ASI level, not a feat level: +1 DEX → DEX 14.)*
 
 ---
 
-# LEVEL 4 — BRAWLER 4
+# LEVEL 5 — BRAWLER 4
 
 ## Class Features
-- **AC Bonus +1** (dodge bonus; campaign option increases this by 1.5× if chosen as favoured class benefit)
-- **Knockout 1/day** (fort save or unconscious; melee attack, must declare before rolling)
-- ~~Bonus Combat Feat~~ — **Brawler 4 does NOT grant a bonus feat.** Core progression is Brawler levels 2, 5, 8, 11, 14, 17, 20.
+- **AC Bonus +1** (dodge bonus; the favoured-class 1.5× option is N/A here)
+- **Knockout 1/day** (fort save or unconscious; melee attack, declare before rolling)
+- ~~Bonus Combat Feat~~ — **Brawler 4 does NOT grant a bonus feat.** Bonus feats are at Brawler 2, 5, 8, 11, 14, 17, 20.
+
+## Feat (Level 5 — regular)
+**Recommended: Catch Off-Guard**
+- Prereqs: BAB +4 [yes] (BAB is +5 at this level)
+- Only -1 penalty with improvised melee weapons (normally -4). Unarmed opponents flat-footed to first improvised attack.
 
 ---
 
-# LEVEL 5 — BRAWLER 5
+# LEVEL 6 — BRAWLER 5
 
 ## Class Features
 - **Bonus Combat Feat**
 - **Brawler's Strike (magic)** — unarmed strikes count as magic for DR
 - **Close Weapon Mastery** — damage with close weapon group = unarmed strike damage
 
-## Feat (Level 5 — regular)
-**Recommended: Catch Off-Guard**
-- Prereqs: BAB +4 [yes] (BAB is +5 at this level)
-- Benefit: Only -1 penalty with improvised melee weapons (normally -4). Unarmed opponents flat-footed to first improvised attack.
-
 ## Feat (Bonus Combat Feat)
 Take whichever priority option from level 2 was not taken, or:
 - **Defensive Mobility** — Prereqs: Dex 13, Defensive Combat Training [yes] (taken at level 3). Roll DCM to avoid AoO when moving out of threatened squares.
 
----
-
-# LEVEL 6 — BARBARIAN 1
-**XP:** +12,000 (35,000 total) — standard multiclass
-
-## Class Features
-- **Rage** (burst combat mode: +4 Str/Con, +2 Will, -2 AC)
-- Fast Movement (+10 ft. in medium or lighter armor)
-- Note: campaign Barbarian gets DR 1/— at level 4, a second Rage Power at 4, and Uncanny Dodge at 2 — reachable if taking additional Barbarian levels (see below)
+*(Level 6 is also an ASI level: +1 STR → STR 22.)*
 
 ---
 
@@ -307,11 +312,11 @@ The previous campaign ended at level 15, so plan a continuation. **Recommended t
 | 7 | Iron Will | +2 Will saves; offsets Battered penalty |
 | 9 | Weapon Focus (Unarmed) | BAB +1, proficiency |
 
-## Bonus Combat Feats (Brawler levels: 2, 5, 8 = character levels 2, 5, 9)
+## Bonus Combat Feats (Brawler levels: 2, 5, 8 = character levels 2, 6, 9)
 | Char Lvl | Brawler Lvl | Recommended |
 |----------|-------------|-------------|
 | 2 | Brawler 2 | Improved Grapple |
-| 5 | Brawler 5 | Improved Overpowering Maneuvers |
+| 6 | Brawler 5 | Improved Overpowering Maneuvers |
 | 9 | Brawler 8 | Defensive Mobility |
 
 ## Control Package (campaign custom feats)
@@ -376,7 +381,7 @@ These feats are situationally strong but not worth sacrificing a permanent feat 
 | Greater Grapple | Improved Grapple, Dex 13, BAB +6 | Dex 13+ | Level 6+ |
 | Rapid Grappler | Greater Grapple, BAB +9 | Dex 13+ | ~Level 13 |
 | Intimidating Prowess | None | Str → Intimidate | Always |
-| Cornugon Smash | Power Attack, Intimidate 6 ranks | — | ~Level 6 |
+| Cornugon Smash | Power Attack, Intimidate 6 ranks | — | ~Level 7 |
 | Improved Iron Will | Iron Will | — | After Iron Will |
 | Snapping Turtle Style | IUS | — | Always (style) |
 | Brute Force | None | Str (Slam) | Always |

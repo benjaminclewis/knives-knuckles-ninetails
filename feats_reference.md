@@ -214,7 +214,7 @@ Feats surfaced by a later review that fit the build but aren't in the level 1–
 | Improved Combat Training | Off. + Def. Combat Training | Campaign custom | After both |
 | Brute Force | None | Campaign custom | Anytime (Slam to-hit) |
 | Intimidating Prowess | None | APG | Anytime |
-| Cornugon Smash | Power Attack, Intimidate 6 ranks | APG | ~Level 6 |
+| Cornugon Smash | Power Attack, Intimidate 6 ranks | APG | ~Level 7 |
 | Rapid Grappler | Greater Grapple, BAB +9 | Ultimate Combat | ~Level 13 |
 | Improved Iron Will | Iron Will | Ultimate Magic | After Iron Will |
 | Snapping Turtle Style | IUS | Ultimate Combat | Anytime (style) |
