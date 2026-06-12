@@ -204,13 +204,13 @@ Feats surfaced by a later review that fit the build but aren't in the level 1–
 | Improved Grapple | Dex 13, IUS | Campaign revised | Level 2 (bonus) |
 | Imp. Expertise Maneuvers | Int 13, Combat Expertise | Campaign custom | Level 2 (if Int 13+ via Brawler's Cunning + Combat Expertise at 1) |
 | Imp. Overpowering Maneuvers | Str 13, Power Attack, BAB +1 | Campaign custom | Level 2 (bonus) |
-| Defensive Combat Training | None | Campaign revised | Level 3 |
+| Defensive Combat Training | None | Campaign revised | Level 6 (bonus) |
 | Catch Off-Guard | BAB +4 | Campaign revised | Level 5 (BAB +5) |
 | Combat Reflexes | None (Dex 13 in core, unlisted in campaign) | Campaign revised | Level 5 or 7 |
-| Defensive Mobility | Dex 13, Def. Combat Training | Campaign custom | Level 5 (bonus) or later |
+| Defensive Mobility | Dex 13, Def. Combat Training | Campaign custom | Level 9 (bonus) |
 | Weapon Focus | Proficiency, BAB +1 | Core | Level 5+ |
 | Unarmed Slam | IUS, BAB +5, Imp. Overpowering | Campaign custom | Level 7+ (optional) |
-| **Offensive Combat Training** | None | Campaign custom | Anytime (+2 OCM) |
+| **Offensive Combat Training** | None | Campaign custom | Level 3 (+2 OCM) |
 | Improved Combat Training | Off. + Def. Combat Training | Campaign custom | After both |
 | Brute Force | None | Campaign custom | Anytime (Slam to-hit) |
 | Intimidating Prowess | None | APG | Anytime |

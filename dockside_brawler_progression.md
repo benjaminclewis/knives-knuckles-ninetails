@@ -164,8 +164,9 @@ Taken right after Brawler 2, so the core engine (IUS, Brawler's Flurry, Improved
 - Note: campaign Barbarian gets Uncanny Dodge at Barb 2, rage powers at Barb 2/4, and DR 1/— at Barb 4 — all reached via the continuation's Barbarian levels (see Levels 11–15)
 
 ## Feat (Level 3 — regular)
-**Recommended: Defensive Combat Training**
-- No prereqs. +2 competence bonus to DCM; prereq for Defensive Mobility.
+**Recommended: Offensive Combat Training**
+- No prereqs. **+2 competence bonus to OCM** — boosts every grapple, hold, pin, choke, bull rush, and trip, the build's core actions. The single most on-identity feat available, and it opens Improved Combat Training later.
+- **Why over Defensive Combat Training?** DCT (+2 DCM) only helps on defense (escaping grapples, defensive movement); it earned an early slot in earlier drafts solely as the Defensive Mobility prerequisite. Since Defensive Mobility isn't taken until level 9, DCT can wait — it's the level-6 bonus feat.
 - **Why not Catch Off-Guard?** The campaign version requires BAB +4. At level 3, BAB is only +3 — Catch Off-Guard comes at level 5.
 
 ---
@@ -202,8 +203,8 @@ Taken right after Brawler 2, so the core engine (IUS, Brawler's Flurry, Improved
 - **Close Weapon Mastery** — damage with close weapon group = unarmed strike damage
 
 ## Feat (Bonus Combat Feat)
-Take whichever priority option from level 2 was not taken, or:
-- **Defensive Mobility** — Prereqs: Dex 13, Defensive Combat Training [yes] (taken at level 3). Roll DCM to avoid AoO when moving out of threatened squares.
+**Recommended: Defensive Combat Training** — No prereqs. +2 DCM (escaping grapples, defensive movement) and the prerequisite for Defensive Mobility (level 9).
+- Alternative: **Improved Overpowering Maneuvers** (Str 13, Power Attack) if you'd rather hold bull rush/overrun/sunder no-AoO permanently than flex it.
 
 *(Level 6 is also an ASI level: +1 STR → STR 22.)*
 
@@ -223,7 +224,7 @@ Take whichever priority option from level 2 was not taken, or:
 **Alternatives:**
 - **Toughness** — +1 HP/level (retroactive). Delays Disabled threshold and helps survive Massive Damage. Good choice if Battered is not in play.
 - **Hack (Combat)** — Prereqs: Str 13, Power Attack [yes]. Free extra melee attack at full BAB when a foe is KO'd, once per round. Strong synergy with Flurry (more attacks = more KOs). Thematic for a dockside brawler fighting crowds. Can be tested via Martial Flexibility before committing.
-- **Improved Overpowering Maneuvers** (if not taken at level 2 or 5 bonus feat)
+- **Improved Overpowering Maneuvers** — bull rush/overrun/sunder no-AoO, if you want it permanently rather than flexing it
 
 ---
 
@@ -248,7 +249,7 @@ Take whichever priority option from level 2 was not taken, or:
 OR: situational control feat
 
 ## Feat (Bonus Combat Feat)
-**Recommended: Defensive Mobility** (if not already taken) — Prereqs: Dex 13, Defensive Combat Training [yes]
+**Recommended: Defensive Mobility** — Prereqs: Dex 13, Defensive Combat Training [yes, from level 6]. Roll DCM to avoid AoOs when moving out of threatened squares.
 
 OR: remaining control feat from the priority list.
 
@@ -307,7 +308,7 @@ The previous campaign ended at level 15, so plan a continuation. **Recommended t
 | Level | Feat | Notes |
 |-------|------|-------|
 | 1 | Power Attack | Str 13, BAB +1 |
-| 3 | Defensive Combat Training | No prereqs; +2 DCM, prereq for Defensive Mobility |
+| 3 | Offensive Combat Training | No prereqs; **+2 OCM** — boosts every grapple/maneuver, the build's core action |
 | 5 | Catch Off-Guard | BAB +4 (campaign req) |
 | 7 | Iron Will | +2 Will saves; offsets Battered penalty |
 | 9 | Weapon Focus (Unarmed) | BAB +1, proficiency |
@@ -316,15 +317,16 @@ The previous campaign ended at level 15, so plan a continuation. **Recommended t
 | Char Lvl | Brawler Lvl | Recommended |
 |----------|-------------|-------------|
 | 2 | Brawler 2 | Improved Grapple |
-| 6 | Brawler 5 | Improved Overpowering Maneuvers |
+| 6 | Brawler 5 | Defensive Combat Training (prereq for Defensive Mobility) |
 | 9 | Brawler 8 | Defensive Mobility |
 
 ## Control Package (campaign custom feats)
-- **Offensive Combat Training** — none. **+2 OCM** (grapple, bull rush, trip, etc.) — the offensive twin of Defensive Combat Training; top-tier for a maneuver build.
+- **Offensive Combat Training** — none. **+2 OCM** (grapple, bull rush, trip, etc.) — the offensive twin of Defensive Combat Training; top-tier for a maneuver build (take at level 3).
+- **Defensive Combat Training** — none. +2 DCM; prereq for Defensive Mobility (level-6 bonus feat).
 - **Improved Combat Training** — Offensive + Defensive Combat Training. Roll DCM → offensive maneuver with no AoO; +2 CMC.
 - **Improved Expertise Maneuvers** — Int 13 (Brawler's Cunning), Combat Expertise
-- **Improved Overpowering Maneuvers** — Str 13, Power Attack, BAB +1
-- **Defensive Mobility** — Dex 13, Defensive Combat Training
+- **Improved Overpowering Maneuvers** — Str 13, Power Attack, BAB +1. *(Flex when needed — situational vs grappling.)*
+- **Defensive Mobility** — Dex 13, Defensive Combat Training (level-9 bonus feat)
 - **Greater Grapple** — Improved Grapple, Dex 13, BAB +6. Maintain as a move action; gateway to Rapid Grappler.
 
 ## Defense Package

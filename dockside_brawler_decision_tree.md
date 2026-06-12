@@ -11,7 +11,7 @@
 | Brawler's Slam | 3+ | Full-round until 7, then standard action |
 | Knockout | 4+ | 1/day; 2/day at level 10 |
 | Close Weapon Mastery | 5+ | Brass knuckles damage = unarmed strike damage |
-| Defensive Mobility | 5+ (if taken) | Requires Dex 13 + Defensive Combat Training |
+| Defensive Mobility | 9 (Brawler 8 bonus) | Requires Dex 13 + Defensive Combat Training (level 6) |
 | Rage | 6+ | 4 + Con mod rounds/day |
 | Hack | 7+ (if taken) | Free extra attack on KO; once per round |
 | Flurry (Imp. TWF) | 9+ | Second iterative at -5 |
@@ -69,11 +69,11 @@ Can the character full attack safely?
 **Priority: Stabilize the situation.**
 
 1. **Grapple or trip the biggest threat** — removes one enemy's actions. Use Improved Grapple or flex into a trip feat via Martial Flexibility.
-2. **If surrounded and need to move:** Defensive Mobility DCM check to escape without provoking (available level 5+ if taken).
+2. **If surrounded and need to move:** Defensive Mobility DCM check to escape without provoking (available from level 9 if taken).
 3. **Once stabilized:** Flurry to apply pressure across remaining targets.
 4. **If one enemy is particularly dangerous:** Consider Knockout (level 4+, 1/day) to remove them entirely.
 
-**If Defensive Mobility is not yet available (before level 5 or not taken):**
+**If Defensive Mobility is not yet available (before level 9 or not taken):**
 - Use Acrobatics or the standard DCM rules for moving through threatened squares (ask GM for campaign specifics).
 
 ---
@@ -83,7 +83,7 @@ Can the character full attack safely?
 **The character is the one in trouble.**
 
 1. **Escape first.** Use the Escape grapple maneuver (standard action, DCM vs opponent's CMC). Alternatively, use Escape Artist or a straight Strength check vs their CMC.
-2. **If escape succeeds:** Reposition to a safer spot. Use Defensive Mobility to avoid AoOs (available level 5+ if taken).
+2. **If escape succeeds:** Reposition to a safer spot. Use Defensive Mobility to avoid AoOs (available from level 9 if taken).
 3. **If escape fails or isn't the priority:** 
    - **Slam** (unarmed strike is 0-reach, so it works in a grapple)
    - **Bite** (natural attack, also 0-reach, works in grapple — 1d3 + half STR)
@@ -181,7 +181,7 @@ Brawlers can flex into a combat feat for 1 minute. **The feat's prerequisites mu
 
 | Situation | Flex Into | Effect |
 |-----------|-----------|--------|
-> The campaign bundles maneuver feats: **Improved Overpowering Maneuvers** covers bull rush/overrun/sunder; **Improved Expertise Maneuvers** covers disarm/trip/dirty trick. Improved Overpowering is taken at level 5, so those already work without an AoO — flex the **Greater** version for the extra effect (see "Pre-Existing Feats to Augment" below).
+> The campaign bundles maneuver feats: **Improved Overpowering Maneuvers** covers bull rush/overrun/sunder; **Improved Expertise Maneuvers** covers disarm/trip/dirty trick. Neither is a permanent pick in the current plan — flex whichever the moment calls for (Improved Overpowering for a no-AoO bull rush/sunder, Improved Expertise for trip/disarm), then flex the **Greater** version on top if needed (see "Pre-Existing Feats to Augment" below).
 
 | Situation | Flex Into | Effect |
 |-----------|-----------|--------|
