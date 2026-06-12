@@ -66,7 +66,7 @@ Barbarian, ranger, or fighter. **Brawler is not listed by RAW.** GM consultation
 ### Core Lizardfolk Comparison (d20pfsrd)
 
 For reference, the *core* Pathfinder Lizardfolk (8 RP) differs in several ways:
-- Has **claws** (1d4 ×2 primary natural attacks) — campaign version does NOT, so the **bite is your only natural attack**. (Claws gained later — e.g., from Lesser Beast Totem — *would* be natural attacks, but they'd give you a claw/claw/bite routine that competes with your flurry rather than adding to it, so they don't help this build.)
+- Has **claws** (1d4 ×2 primary natural attacks) — campaign version does NOT, so the **bite is the only natural attack**. (Claws gained later — e.g., from Lesser Beast Totem — *would* be natural attacks, but they'd give a claw/claw/bite routine that competes with the flurry rather than adding to it, so they don't help this build.)
 - Has **swim 30 ft.** with +8 racial Swim bonus — campaign version has swim 15 ft.
 - Has **normal vision** — campaign version has Inferior + Low-light
 - Has **no Int penalty** — campaign version has -2 Int
@@ -95,7 +95,7 @@ For reference, the *core* Pathfinder Lizardfolk (8 RP) differs in several ways:
 
 **Brawler's Cunning (Ex):** Int 13 counts as Int 13 for the purpose of qualifying for combat feats. This applies to BOTH the base score and effective score — meaning the Int 13 requirement for combat feats is satisfied by this class feature.
 
-**Martial Flexibility (Ex):** Gain a combat feat the character doesn't already have for 1 minute, usable 3 + 1/2 brawler level times/day. **You must meet all the feat's prerequisites** — except that a *feat*-type prerequisite can be covered by spending an additional simultaneous selection (the 2-feat option). Action economy: move action for 1 feat at level 1; at level 6, swift for 1 feat **or** move for 2 feats; at level 10, free for 1 / swift for 2 / move for 3; at level 12, immediate for 1 / swift for 3. (Campaign does not revise this feature.)
+**Martial Flexibility (Ex):** Gain a combat feat the character doesn't already have for 1 minute, usable 3 + 1/2 brawler level times/day. **The brawler must meet all the feat's prerequisites** — except that a *feat*-type prerequisite can be covered by spending an additional simultaneous selection (the 2-feat option). Action economy: move action for 1 feat at level 1; at level 6, swift for 1 feat **or** move for 2 feats; at level 10, free for 1 / swift for 2 / move for 3; at level 12, immediate for 1 / swift for 3. (Campaign does not revise this feature.)
 
 **Martial Training (Ex):** Brawler levels count as fighter and monk levels for feat prerequisites and item qualification.
 
@@ -197,7 +197,7 @@ When taking a level in their favoured class, a character chooses one benefit:
 
 | Power | Prereqs | Effect |
 |-------|---------|--------|
-| **Superstition** | None | +2 (scaling) morale save bonus vs spells, supernatural, and spell-like abilities while raging — patches the weak Will save. Caveat: you also resist allies' beneficial spells, so pair with Renewed Vigor (Barb 4). |
+| **Superstition** | None | +2 (scaling) morale save bonus vs spells, supernatural, and spell-like abilities while raging — patches the weak Will save. Caveat: the barbarian also resists allies' beneficial spells, so pair with Renewed Vigor (Barb 4). |
 | **Strength Surge** | None | Add Barbarian level to one Str check, combat-maneuver check, or CMD vs a maneuver, once per rage (immediate action). Helps a key grapple or bull rush land. |
 | **Knockback** | None | Once per round, make one bull rush *in place of* a melee attack; on a hit, deal Str-mod damage and push, no AoO. Pairs with Strength Surge (adds Barb level to the check) to make a pier-toss very likely. |
 | **Reckless Abandon** | None | −1 AC / +1 attack while raging, increasing by 1 every four **barbarian** levels (so just −1/+1 at Barbarian 1–3). Minor at a shallow dip. |
@@ -422,6 +422,7 @@ The campaign replaces per-rank skill point allocation with an expert/proficient 
 - **Expert skills:** Rank bonus = class level
 - **Proficient skills:** Rank bonus = half class level
 - **Minimum rank bonus:** 1/4 character level (all untrained skills)
+- **Ranks for feat prerequisites** (e.g. Cornugon Smash's "Intimidate 6 ranks"): per the sheet formula, a skill's ranks = (1 if Expert, 0.5 if Proficient) × class level, **summed across each class** where it's trained. An Expert Brawler skill therefore has ranks = Brawler level (so 6 ranks = Brawler 6 = character level 7).
 
 Choose a number of expert and proficient skills based on: `Proficient + 2 × Expert = 2 × (class skill ranks + INT mod) + 1 if favoured class`
 

@@ -58,7 +58,7 @@ Lizardfolk Brawler with campaign modifications:
 
 Melee attack uses **BAB + STR + DEX** (not just STR). The sheet keeps half-point modifiers, so with STR 21 (+5.5) and DEX 13 (+1.5) the attack bonus at level 1 is **+8** (BAB +1, STR +5.5, DEX +1.5).
 
-| Priority | Stat | Why | Your Score |
+| Priority | Stat | Why | Score |
 |----------|------|-----|------------|
 | **Primary** | STR | Damage, OCM, attack rolls, CMC | 21 (+5) — outstanding |
 | **Primary** | DEX | Attack rolls, AC, DCM, CMC, Reflex, initiative | 13 (+1) — meets all feat prereqs |
@@ -82,6 +82,12 @@ By level 10 (Brawler 9 / Barbarian 1): STR 23 (+6.5), DEX 14 (+2), CON 15. BAB i
 ### Armour
 
 Studded Leather: +3 AC, **DR 1/—**, Max DEX +5, ACP -1. Works fully with Brawler AC Bonus (+1 dodge at level 4, +2 at level 9). The universal DR stacks with any other DR acquired.
+
+### Gear Priorities
+- **Amulet of Mighty Fists** — enhances unarmed strikes *and* the bite in one slot; the top magic item for this build.
+- **"Brawling" armour property** (APG) — +2 untyped to unarmed attack *and* damage; cheap, put it on the Studded Leather.
+- **Cloak of Resistance** — flat bonus to all three saves; worth more here because every save is two-stat, and it shores up the weak Will.
+- **Belt of Giant Strength** — straight to the primary stat (damage, OCM, attack, Fort, CMC).
 
 ### Progression System: Standard Multiclassing
 
@@ -157,7 +163,7 @@ Priority options:
 ## Feat (Level 3)
 **Recommended: Defensive Combat Training**
 - No prereqs. +2 competence bonus to DCM.
-- **Why not Catch Off-Guard?** The campaign version of Catch Off-Guard requires BAB +4. At level 3, BAB is only +3. You'll take Catch Off-Guard at level 5 instead.
+- **Why not Catch Off-Guard?** The campaign version of Catch Off-Guard requires BAB +4. At level 3, BAB is only +3. Catch Off-Guard comes at level 5 instead.
 
 ---
 
@@ -264,14 +270,15 @@ The previous campaign ended at level 15, so plan a continuation. **Recommended t
 | 14 | **Barbarian 4** | **Rage Power #2**, DR 1/— (→ **DR 2/—** with Studded Leather) | ASI |
 | 15 | **Barbarian 5** | Improved Uncanny Dodge (can't be flanked except by a much higher-level rogue) | Feat |
 
-**Brawler-heavier alternative:** stop Barbarian at 4 and take Brawler 11 at level 15 (bonus combat feat + Maneuver Training 3) instead of Barbarian 5. Barbarian 5 is the more defensive pick (Improved Uncanny Dodge); Brawler 11 is the more flexible one. Either way, **skip Beast Totem** — Lesser Beast Totem's claws *are* natural attacks, but they give you a claw/claw/bite routine that competes with your flurry rather than adding to it, and your flurry out-damages it. (You have no claws by default; the bite is your only natural attack.)
+**Brawler-heavier alternative:** stop Barbarian at 4 and take Brawler 11 at level 15 (bonus combat feat + Maneuver Training 3) instead of Barbarian 5. Barbarian 5 is the more defensive pick (Improved Uncanny Dodge); Brawler 11 is the more flexible one. Either way, **skip Beast Totem** — Lesser Beast Totem's claws *are* natural attacks, but they give a claw/claw/bite routine that competes with the flurry rather than adding to it, and the flurry out-damages it. (The character has no claws by default; the bite is the only natural attack.)
 
 **ASIs (12, 14):** keep feeding STR and DEX — e.g. STR 24 (+7) at 12, DEX 15 at 14. Both stats double-dip in this campaign (STR: damage / OCM / attack / Fort / CMC; DEX: attack / AC / DCM / CMC / Reflex / initiative).
 
-**Regular feats (11, 13, 15):** the campaign allows core PF1e feats it doesn't itemize, so prioritize the grapple/control identity, then offense —
-- **Greater Grapple** (Improved Grapple, Dex 13, BAB +6) — maintain the grapple as a *move* action and make a second grapple check, so you can Hold → Damage/Choke in one turn. The single highest-value feat for this build.
-- **Furious Focus** (Power Attack, BAB +1) — cancels Power Attack's to-hit penalty on your first attack each round.
-- **Improved Critical (Unarmed Strike)** (BAB +8) — doubles your crit range across many flurry attacks. (Or **Hack** — Str 13, Power Attack — for a free attack on each KO; test via Martial Flexibility first.)
+**Regular feats (11, 13, 15):** the campaign allows core PF1e feats it doesn't itemize. Top candidates in rough priority (only 3 slots — retrain or flex the rest) —
+- **Offensive Combat Training** (Legendspring; no prereq) — +2 to OCM (every grapple, bull rush, trip). The offensive twin of Defensive Combat Training, and for a maneuver build arguably better than Weapon Focus. Opens **Improved Combat Training** (with Defensive Combat Training: DCM → offensive maneuver, no AoO, +2 CMC).
+- **Greater Grapple** (Improved Grapple, Dex 13, BAB +6) — maintain the grapple as a *move* action and make a second grapple check (Hold → Damage/Choke in one turn). Gateway to **Rapid Grappler** (UC; Greater Grapple, BAB +9) — a *swift*-action third grapple check for a brutal lock chain.
+- **Intimidate package** (APG) — **Intimidating Prowess** (STR to Intimidate) + **Cornugon Smash** (free demoralize when damaging with Power Attack) turns dumped CHA + huge STR + flurry into per-round *shaken*. Two feats, party-wide value; see the package below.
+- **Furious Focus** (Power Attack, BAB +1) — cancels Power Attack's first-attack to-hit penalty. Or **Improved Critical (Unarmed)** (BAB +8) for crit fishing, or **Improved Iron Will** (UM; Iron Will) to reroll the worst save 1/day.
 
 > If the GM runs past 15, the next-best steps are Barbarian 6 (Rage Power #3) and Barbarian 7 (campaign **DR 2/—**, stacking to 3/— with armor), or Brawler 15 for Greater Two-Weapon Fighting (a third flurry iterative).
 
@@ -279,13 +286,13 @@ The previous campaign ended at level 15, so plan a continuation. **Recommended t
 
 **Priority 1 (grapple) — Strength Surge:** Add Barbarian level to one combat-maneuver check per rage (it adds to the check — not auto-success). For a grapple specialist, that reliably lands one key grab per fight. Combined with the campaign's Choke (CON damage) and Hold (near-shutdown) grapple options, one near-guaranteed lock-down per rage is a major asset. Prerequisites: none.
 
-**Priority 1 (defense) — Superstition:** +2 morale bonus on saving throws against spells, supernatural abilities, and spell-like abilities while raging, scaling +1 every four barbarian levels. This is the cleanest fix for your worst save (Will = WIS + CHA, both dumped), stacking with Iron Will and Rage's +2 morale. **Caveat:** you must save against *all* magic while raging, including allies' beneficial spells — so pair it with **Renewed Vigor** (Barb 4) to heal yourself, since the party can't reliably heal or buff you mid-rage. Prerequisites: none.
+**Priority 1 (defense) — Superstition:** +2 morale bonus on saving throws against spells, supernatural abilities, and spell-like abilities while raging, scaling +1 every four barbarian levels. This is the cleanest fix for the build's worst save (Will = WIS + CHA, both dumped), stacking with Iron Will and Rage's +2 morale. **Caveat:** the barbarian must save against *all* magic while raging, including allies' beneficial spells — so pair it with **Renewed Vigor** (Barb 4) for self-healing, since the party can't reliably heal or buff the character mid-rage. Prerequisites: none.
 
-**Priority 2 — Knockback:** Once per round, make a single bull rush *in place of* a melee attack (no AoO); on a hit the target takes Str-mod damage and is pushed back. You trade one attack for the push — it is **not** a free rider on every hit. On a dockside map it's still excellent: shoving one enemy off a pier or into the water can remove them from the fight outright, and **Strength Surge guarantees the push lands** once per rage. Prerequisites: none.
+**Priority 2 — Knockback:** Once per round, make a single bull rush *in place of* a melee attack (no AoO); on a hit the target takes Str-mod damage and is pushed back. This trades one attack for the push — it is **not** a free rider on every hit. On a dockside map it's still excellent: shoving one enemy off a pier or into the water can remove them from the fight outright, and **Strength Surge guarantees the push lands** once per rage. Prerequisites: none.
 
 **Alternative — Reckless Abandon:** −1 AC / +1 attack while raging, increasing by 1 every four **barbarian** levels. With only 1–2 Barbarian levels it stays at **−1/+1** — too small to spend a rage-power pick on at a shallow dip. Only becomes worthwhile with deeper Barbarian investment.
 
-**Alternative — Renewed Vigor (requires Barbarian 4):** Heal 1d8 + CON HP as a standard action, once per day while raging. Only available once you reach Barbarian 4 (character level ~14 in the continuation plan), so it is not an option at the initial dip — but it's the natural Barb 4 pick if you took Superstition, which otherwise locks out ally healing.
+**Alternative — Renewed Vigor (requires Barbarian 4):** Heal 1d8 + CON HP as a standard action, once per day while raging. Only available at Barbarian 4 (character level ~14 in the continuation plan), so it is not an option at the initial dip — but it's the natural Barb 4 pick alongside Superstition, which otherwise locks out ally healing.
 
 ---
 
@@ -308,18 +315,31 @@ The previous campaign ended at level 15, so plan a continuation. **Recommended t
 | 9 | Brawler 8 | Defensive Mobility |
 
 ## Control Package (campaign custom feats)
+- **Offensive Combat Training** — none. **+2 OCM** (grapple, bull rush, trip, etc.) — the offensive twin of Defensive Combat Training; top-tier for a maneuver build.
+- **Improved Combat Training** — Offensive + Defensive Combat Training. Roll DCM → offensive maneuver with no AoO; +2 CMC.
 - **Improved Expertise Maneuvers** — Int 13 (Brawler's Cunning), Combat Expertise
 - **Improved Overpowering Maneuvers** — Str 13, Power Attack, BAB +1
 - **Defensive Mobility** — Dex 13, Defensive Combat Training
+- **Greater Grapple** — Improved Grapple, Dex 13, BAB +6. Maintain as a move action; gateway to Rapid Grappler.
 
 ## Defense Package
 - **Iron Will** — +2 Will saves
+- **Improved Iron Will** (Ultimate Magic; Iron Will) — reroll a failed Will save 1/day. Cheap insurance for the worst save.
+- **Snapping Turtle Style** (Ultimate Combat) — +1 (escalating) shield bonus to AC whenever a hand is free (it is, between unarmed strikes); patches the build's low AC. Flexible (style feat).
 - **Toughness** (alternative to Iron Will) — +1 HP/level
 
 ## Damage Package
 - **Power Attack** — Str 13, BAB +1
 - **Hack** — Str 13, Power Attack. Extra attack on KO. Alternative to Iron Will at level 7.
 - **Weapon Focus (Unarmed Strike)** — BAB +1
+- **Brute Force** (Legendspring; no prereq) — Brawler's Slam counts as two-handed, so it can use 1½× STR instead of STR+DEX to hit; Slams get steadily more accurate as STR climbs. Only matters when leaning on Slam.
+
+## Intimidate / Demoralize Package (alternative path — APG)
+CHA is dumped, but Intimidate keys off STR with one feat — turning a wasted stat into a per-round debuff engine.
+- **Intimidating Prowess** (no prereq) — add STR to Intimidate in addition to CHA. With STR 21+ and Intimidate as an expert class skill, the check is high despite CHA 9.
+- **Cornugon Smash** (Power Attack, Intimidate 6 ranks → **Brawler 6 / character level 7**) — free Intimidate to demoralize whenever damaging with Power Attack. With Power Attack on every round and many flurry hits, enemies stay **shaken** (−2 to their attacks, saves, skills) for free.
+- **Dreadful Carnage** (Power Attack, Intimidating Prowess, BAB +11) — at high levels, demoralize everyone within 30 ft when dropping a foe. **Hurtful** (Weapon Master's Handbook, *GM request*) adds a free attack on each demoralize.
+> **Ranks (from the sheet formula):** a skill's ranks = (1 if Expert, 0.5 if Proficient) × class level, summed per class. Intimidate is Expert in Brawler, so its ranks = the Brawler level — 6 ranks = Brawler 6 (character level 7), or character level 6 if it's also tagged Expert in Barbarian at the dip.
 
 ## Skip / Not Recommended
 
@@ -331,7 +351,7 @@ These feats are situationally strong but not worth sacrificing a permanent feat 
 
 - **Body Shield** (APG) — Prereqs: Dex 13, Improved Unarmed Strike, Improved Grapple, BAB +6 (all met from level 6). As an immediate action while grappling, make a grapple check to gain cover (+4 AC, +2 Reflex) against a *single* attack. Flex after establishing Hold to blunt one big incoming hit.
 - **Pummeling Style** (Ultimate Combat) — Prereq: Improved Unarmed Strike + (BAB +6 or Flurry). Pool all unarmed hits against a single target before applying DR. Flex when facing DR/— or DR/bludgeoning that Brawler's Strike doesn't bypass.
-- **Hack and Slash** (the campaign's Great Cleave) — Prereqs: Str 13, Hack, Power Attack, BAB +4. An extra attack on each KO with no per-round limit. To flex it you also need **Hack** as its prerequisite feat (flex both together at level 6+, or take Hack permanently). Flex when swarmed by mooks.
+- **Hack and Slash** (the campaign's Great Cleave) — Prereqs: Str 13, Hack, Power Attack, BAB +4. An extra attack on each KO with no per-round limit. Flexing it also requires **Hack** as its prerequisite feat (flex both together at level 6+, or take Hack permanently). Flex when swarmed by mooks.
 - **Lunge** — Prereq: BAB +6. Extend reach by 5 ft for one round. Flex against reach enemies or when movement isn't an option.
 
 ---
@@ -351,6 +371,15 @@ These feats are situationally strong but not worth sacrificing a permanent feat 
 | Defensive Mobility | Dex 13, Def. Combat Training | Dex 13+ | Need 13 Dex |
 | Weapon Focus | Proficiency, BAB +1 | — | Always |
 | Toughness | None | — | Always (alternative to Iron Will) |
+| **Offensive Combat Training** | None | — | Always (+2 OCM) |
+| Improved Combat Training | Off. + Def. Combat Training | — | After both Combat Trainings |
+| Greater Grapple | Improved Grapple, Dex 13, BAB +6 | Dex 13+ | Level 6+ |
+| Rapid Grappler | Greater Grapple, BAB +9 | Dex 13+ | ~Level 13 |
+| Intimidating Prowess | None | Str → Intimidate | Always |
+| Cornugon Smash | Power Attack, Intimidate 6 ranks | — | ~Level 6 |
+| Improved Iron Will | Iron Will | — | After Iron Will |
+| Snapping Turtle Style | IUS | — | Always (style) |
+| Brute Force | None | Str (Slam) | Always |
 
 ---
 
@@ -392,6 +421,6 @@ These feats are situationally strong but not worth sacrificing a permanent feat 
 - **Catch Off-Guard** requires BAB +4 (not level 1 viable).
 - **Improved Grapple** adds Dex 13 prerequisite.
 - **Brawler's Slam** is full-round until Brawler 7, then standard action.
-- **Martial Flexibility** upgrades at Brawler 6 (swift for 1 feat, or move for 2). Swift-for-2 is the Brawler 10 tier (~character level 11). You must still meet a flexed feat's prerequisites (a *feat* prereq can be covered by spending a second simultaneous slot).
+- **Martial Flexibility** upgrades at Brawler 6 (swift for 1 feat, or move for 2). Swift-for-2 is the Brawler 10 tier (~character level 11). A flexed feat's prerequisites must still be met (a *feat* prereq can be covered by spending a second simultaneous slot).
 - Lizardfolk **lacks claws** in Legendspring campaign version (core Lizardfolk has them).
 - Lizardfolk has **Inferior Vision** (-4 saves vs illusions, -2 to illusion DCs) and **Low-light Vision** (see twice as far in dim light).
