@@ -252,31 +252,40 @@ OR: remaining control feat from the priority list.
 
 ---
 
-# BEYOND LEVEL 10 — ADDITIONAL BARBARIAN LEVELS
+# LEVELS 11–15 — CONTINUATION
 
-After Brawler 8's Flurry upgrade at level 9, further Barbarian levels are the most impactful dips available. Brawler 9-10 features (AC +2, Knockout 2/day, free-action Martial Flexibility) are solid but can be deferred in favor of Barbarian progression.
+The previous campaign ended at level 15, so plan a continuation. **Recommended target: Brawler 10 / Barbarian 5 by level 15.** Take Brawler 10 first — its free-action Martial Flexibility (flex 1 feat free, 2 as a swift, 3 as a move) is the build's biggest remaining spike — then pour levels 12–15 into Barbarian for rage powers, both Uncanny Dodges, and DR. Feat levels are 11, 13, 15; ASIs land at 12 and 14.
 
-## Barbarian 2 (Character Level 10 or 11)
-- **Uncanny Dodge** — never flat-footed, retains DEX to AC vs invisible attackers
-- **Rage Power** — first selection (see recommendations below)
-- If taken at level 10: delays Brawler 9 (AC +2, Knockout 2/day). If taken at level 11: delays Brawler 10 (free-action Martial Flexibility)
+| Char Lvl | Class | Key Gains | Slot |
+|----------|-------|-----------|------|
+| 11 | **Brawler 10** | Free-action Martial Flexibility (1 free / 2 swift / 3 move), Knockout 2/day, unarmed 1d10 | Feat |
+| 12 | **Barbarian 2** | Uncanny Dodge, **Rage Power #1** | ASI |
+| 13 | **Barbarian 3** | Trap Sense +1 (filler en route to Barb 4) | Feat |
+| 14 | **Barbarian 4** | **Rage Power #2**, DR 1/— (→ **DR 2/—** with Studded Leather) | ASI |
+| 15 | **Barbarian 5** | Improved Uncanny Dodge (can't be flanked except by a much higher-level rogue) | Feat |
 
-## Barbarian 3 (Character Level 11 or 12)
-- **Trap Sense +1** — negligible; this is a filler level on the way to Barbarian 4
+**Brawler-heavier alternative:** stop Barbarian at 4 and take Brawler 11 at level 15 (bonus combat feat + Maneuver Training 3) instead of Barbarian 5. Barbarian 5 is the more defensive pick (Improved Uncanny Dodge); Brawler 11 is the more flexible one. Either way, **skip Beast Totem** — Lesser Beast Totem's claws *are* natural attacks, but they give you a claw/claw/bite routine that competes with your flurry rather than adding to it, and your flurry out-damages it. (You have no claws by default; the bite is your only natural attack.)
 
-## Barbarian 4 (Character Level 12 or 13)
-- **Rage Power** — second selection
-- **DR 1/—** (campaign revision) — stacks with Studded Leather's DR 1/— for **DR 2/—** against all physical damage
+**ASIs (12, 14):** keep feeding STR and DEX — e.g. STR 24 (+7) at 12, DEX 15 at 14. Both stats double-dip in this campaign (STR: damage / OCM / attack / Fort / CMC; DEX: attack / AC / DCM / CMC / Reflex / initiative).
+
+**Regular feats (11, 13, 15):** the campaign allows core PF1e feats it doesn't itemize, so prioritize the grapple/control identity, then offense —
+- **Greater Grapple** (Improved Grapple, Dex 13, BAB +6) — maintain the grapple as a *move* action and make a second grapple check, so you can Hold → Damage/Choke in one turn. The single highest-value feat for this build.
+- **Furious Focus** (Power Attack, BAB +1) — cancels Power Attack's to-hit penalty on your first attack each round.
+- **Improved Critical (Unarmed Strike)** (BAB +8) — doubles your crit range across many flurry attacks. (Or **Hack** — Str 13, Power Attack — for a free attack on each KO; test via Martial Flexibility first.)
+
+> If the GM runs past 15, the next-best steps are Barbarian 6 (Rage Power #3) and Barbarian 7 (campaign **DR 2/—**, stacking to 3/— with armor), or Brawler 15 for Greater Two-Weapon Fighting (a third flurry iterative).
 
 ## Recommended Rage Powers
 
-**Priority 1 — Strength Surge:** Add Barbarian level to one combat-maneuver check per rage (it adds to the check — not auto-success). For a grapple specialist, that reliably lands one key grab per fight. Combined with the campaign's Choke (CON damage) and Hold (near-shutdown) grapple options, one near-guaranteed lock-down per rage is a major asset. Prerequisites: none.
+**Priority 1 (grapple) — Strength Surge:** Add Barbarian level to one combat-maneuver check per rage (it adds to the check — not auto-success). For a grapple specialist, that reliably lands one key grab per fight. Combined with the campaign's Choke (CON damage) and Hold (near-shutdown) grapple options, one near-guaranteed lock-down per rage is a major asset. Prerequisites: none.
+
+**Priority 1 (defense) — Superstition:** +2 morale bonus on saving throws against spells, supernatural abilities, and spell-like abilities while raging, scaling +1 every four barbarian levels. This is the cleanest fix for your worst save (Will = WIS + CHA, both dumped), stacking with Iron Will and Rage's +2 morale. **Caveat:** you must save against *all* magic while raging, including allies' beneficial spells — so pair it with **Renewed Vigor** (Barb 4) to heal yourself, since the party can't reliably heal or buff you mid-rage. Prerequisites: none.
 
 **Priority 2 — Knockback:** Once per round, make a single bull rush *in place of* a melee attack (no AoO); on a hit the target takes Str-mod damage and is pushed back. You trade one attack for the push — it is **not** a free rider on every hit. On a dockside map it's still excellent: shoving one enemy off a pier or into the water can remove them from the fight outright, and **Strength Surge guarantees the push lands** once per rage. Prerequisites: none.
 
 **Alternative — Reckless Abandon:** −1 AC / +1 attack while raging, increasing by 1 every four **barbarian** levels. With only 1–2 Barbarian levels it stays at **−1/+1** — too small to spend a rage-power pick on at a shallow dip. Only becomes worthwhile with deeper Barbarian investment.
 
-**Alternative — Renewed Vigor (requires Barbarian 4):** Heal 1d8 + CON HP as a standard action, once per day while raging. Only available once you reach Barbarian 4 (character level ~12–13 in this plan), so it is not an option at the initial dip.
+**Alternative — Renewed Vigor (requires Barbarian 4):** Heal 1d8 + CON HP as a standard action, once per day while raging. Only available once you reach Barbarian 4 (character level ~14 in the continuation plan), so it is not an option at the initial dip — but it's the natural Barb 4 pick if you took Superstition, which otherwise locks out ally healing.
 
 ---
 

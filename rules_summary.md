@@ -66,7 +66,7 @@ Barbarian, ranger, or fighter. **Brawler is not listed by RAW.** GM consultation
 ### Core Lizardfolk Comparison (d20pfsrd)
 
 For reference, the *core* Pathfinder Lizardfolk (8 RP) differs in several ways:
-- Has **claws** (1d4 ×2 primary natural attacks) — campaign version does NOT
+- Has **claws** (1d4 ×2 primary natural attacks) — campaign version does NOT, so the **bite is your only natural attack**. (Claws gained later — e.g., from Lesser Beast Totem — *would* be natural attacks, but they'd give you a claw/claw/bite routine that competes with your flurry rather than adding to it, so they don't help this build.)
 - Has **swim 30 ft.** with +8 racial Swim bonus — campaign version has swim 15 ft.
 - Has **normal vision** — campaign version has Inferior + Low-light
 - Has **no Int penalty** — campaign version has -2 Int
@@ -178,7 +178,7 @@ When taking a level in their favoured class, a character chooses one benefit:
 | Feature | Effect |
 |---------|--------|
 | **Uncanny Dodge** | Never flat-footed; retains DEX to AC against invisible attackers. |
-| **Rage Power** | First rage power selection. Recommended: Strength Surge or Knockback (see below). |
+| **Rage Power** | First rage power selection. Recommended: Superstition (Will defense) or Strength Surge (grapple); see below. |
 
 ### Barbarian 3
 
@@ -197,6 +197,7 @@ When taking a level in their favoured class, a character chooses one benefit:
 
 | Power | Prereqs | Effect |
 |-------|---------|--------|
+| **Superstition** | None | +2 (scaling) morale save bonus vs spells, supernatural, and spell-like abilities while raging — patches the weak Will save. Caveat: you also resist allies' beneficial spells, so pair with Renewed Vigor (Barb 4). |
 | **Strength Surge** | None | Add Barbarian level to one Str check, combat-maneuver check, or CMD vs a maneuver, once per rage (immediate action). Helps a key grapple or bull rush land. |
 | **Knockback** | None | Once per round, make one bull rush *in place of* a melee attack; on a hit, deal Str-mod damage and push, no AoO. Pairs with Strength Surge (adds Barb level to the check) to make a pier-toss very likely. |
 | **Reckless Abandon** | None | −1 AC / +1 attack while raging, increasing by 1 every four **barbarian** levels (so just −1/+1 at Barbarian 1–3). Minor at a shallow dip. |

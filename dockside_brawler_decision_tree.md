@@ -150,8 +150,12 @@ If the opponent consistently escapes, switch to Flurry or Slam — grappling som
 | 7 | Brawler 6: **Martial Flexibility swift**; Iron Will or Hack (feat) | Swift-flex reactively; extra KO attacks (Hack) or safer saves (Iron Will) |
 | 8 | Maneuver Training 2 (flurry at -2/-2) | Flurry accuracy improves |
 | 9 | Flurry (Imp. TWF), Bonus feat | Second iterative in flurry — big power spike |
-| 10 | Brawler 9: Knockout 2/day, AC +2 — OR — Barbarian 2: Uncanny Dodge, first Rage Power | Choose between Brawler capstone or Barbarian expansion |
-| 11+ | Barbarian 2-4: Rage Powers, DR 1/— at Barb 4 | Strength Surge (boost one maneuver/rage), Knockback (one bull rush/round in place of an attack) |
+| 10 | Brawler 9: AC +2, Brawler's Strike (cold iron/silver) | Steady level; flurry as usual |
+| 11 | Brawler 10: **free-action Martial Flexibility**, Knockout 2/day, unarmed 1d10 | Flex a feat every round for free |
+| 12 | Barbarian 2: Uncanny Dodge, Rage Power #1 (Superstition or Strength Surge) | Never flat-footed; pick up a rage power |
+| 13 | Barbarian 3: Trap Sense +1 (filler) | — |
+| 14 | Barbarian 4: Rage Power #2, DR 1/— (→ 2/— with armor) | Tankier; second rage power (Renewed Vigor pairs with Superstition) |
+| 15 | Barbarian 5: Improved Uncanny Dodge | Can't be flanked |
 
 ---
 
