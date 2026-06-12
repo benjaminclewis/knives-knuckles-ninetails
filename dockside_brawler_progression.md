@@ -23,7 +23,7 @@ Campaign Custom Combat Maneuvers:
 # Dockside Brawler Progression Plan (Levels 1-10)
 
 ## Build Overview
-Lizardfolk Brawler with campaign modifications:I ma
+Lizardfolk Brawler with campaign modifications:
 - Brawler's Flurry at level 2
 - Brawler's Slam at level 3 (campaign feature)
 - Legendspring OCM/DCM combat system
@@ -56,7 +56,7 @@ Lizardfolk Brawler with campaign modifications:I ma
 
 ### Stat Priorities CAMPAIGN-SPECIFIC
 
-Melee attack uses **BAB + STR + DEX** (not just STR). With STR 21 and DEX 13, the attack bonus at level 1 is **+7** (BAB +1, STR +5, DEX +1).
+Melee attack uses **BAB + STR + DEX** (not just STR). The sheet keeps half-point modifiers, so with STR 21 (+5.5) and DEX 13 (+1.5) the attack bonus at level 1 is **+8** (BAB +1, STR +5.5, DEX +1.5).
 
 | Priority | Stat | Why | Your Score |
 |----------|------|-----|------------|
@@ -77,7 +77,7 @@ ASI at levels 4, 6, 8, 10 — four increases by level 10 instead of core's two.
 3. Level 8: +1 STR → **STR 23 (+6)**
 4. Level 10: +1 CON → **CON 15 (+2)** — more HP, more Rage rounds
 
-By level 10: STR 23, DEX 14, CON 15 — attack bonus of +14/+9 (+9 BAB, +6 STR, +2 DEX, -3 flurry) with brass knuckles before Power Attack.
+By level 10 (Brawler 9 / Barbarian 1): STR 23 (+6.5), DEX 14 (+2), CON 15. BAB is **+10** (Brawler 9 = +9 plus the Barbarian level = +1). Maneuver Training 2 cancels the flurry's −2 TWF penalty, so the highest flurry attack is about **+18** with brass knuckles before Power Attack (BAB +10, STR +6.5, DEX +2), with additional Improved-TWF attacks below it.
 
 ### Armour
 
@@ -120,14 +120,14 @@ Additional Barbarian levels beyond the level 6 dip can be taken whenever Rage po
 
 ## Class Features
 - Improved Unarmed Strike (1d6 Medium)
-- Martial Flexibility (move action, 1 feat, 4 rounds/day)
+- Martial Flexibility (move action, 1 feat, 3 + 1/2 level uses/day, 1 min each)
 - Brawler's Cunning (Int 13 for combat feat prereqs)
 
 ## Feat (Level 1)
 **Recommended: Power Attack**
 - Prereqs: Str 13, BAB +1 [yes] (STR 21, BAB +1)
-- Attack at level 1: **+7** (BAB +1, STR +5, DEX +1), damage: 1d6+5 unarmed / 1d3+6 with brass knuckles (+1 trait)
-- With Power Attack: **+6** for **1d6+7** (unarmed) or **1d3+8** (brass knuckles)
+- Attack at level 1: **+8** (BAB +1, STR +5.5, DEX +1.5), damage: 1d6+5 unarmed / 1d3+6 with brass knuckles (+1 trait)
+- With Power Attack: **+7** for **1d6+7** (unarmed) or **1d3+8** (brass knuckles)
 
 **Alternatives:**
 - Combat Expertise (if Improved Expertise Maneuvers is planned for level 2; Int 13 is satisfied by Brawler's Cunning)
@@ -201,7 +201,7 @@ Take whichever priority option from level 2 was not taken, or:
 # LEVEL 7 — BRAWLER 6
 
 ## Class Features
-- **Martial Flexibility upgrade:** swift action to gain 2 combat feats simultaneously (instead of move action for 1)
+- **Martial Flexibility upgrade:** swift action for 1 combat feat, **or** move action for 2 feats (swift-action-*for-2* is the Brawler 10 tier — character level ~11 in this build — not Brawler 6)
 
 ## Feat (Level 7 — regular)
 **Recommended: Iron Will**
@@ -270,13 +270,13 @@ After Brawler 8's Flurry upgrade at level 9, further Barbarian levels are the mo
 
 ## Recommended Rage Powers
 
-**Priority 1 — Strength Surge:** Add Barbarian level to one CMB check per rage. For a grapple specialist, this guarantees one key grab per fight. Combined with the campaign's Choke (CON damage) and Hold (near-shutdown) grapple options, one guaranteed lock-down per rage is a major asset. Prerequisites: none.
+**Priority 1 — Strength Surge:** Add Barbarian level to one combat-maneuver check per rage (it adds to the check — not auto-success). For a grapple specialist, that reliably lands one key grab per fight. Combined with the campaign's Choke (CON damage) and Hold (near-shutdown) grapple options, one near-guaranteed lock-down per rage is a major asset. Prerequisites: none.
 
-**Priority 2 — Knockback:** Every Power Attack hit triggers a free bull rush attempt. Flurry makes 2-3 attacks per round, each with Power Attack active — that's 2-3 push attempts per round. On a dockside map, pushing enemies off piers, into water, or into environmental hazards is both mechanically strong and thematically perfect. Prerequisites: Power Attack [yes], BAB +6 [yes].
+**Priority 2 — Knockback:** Once per round, make a single bull rush *in place of* a melee attack (no AoO); on a hit the target takes Str-mod damage and is pushed back. You trade one attack for the push — it is **not** a free rider on every hit. On a dockside map it's still excellent: shoving one enemy off a pier or into the water can remove them from the fight outright, and **Strength Surge guarantees the push lands** once per rage. Prerequisites: none.
 
-**Alternative — Reckless Abandon:** Trade up to BAB in AC for equal attack bonus each round. At Barbarian 2 (BAB ~+9), that's up to -9 AC / +9 to hit. Useful against high-AC enemies the character is unlikely to dodge anyway. Toggle per round based on situation.
+**Alternative — Reckless Abandon:** −1 AC / +1 attack while raging, increasing by 1 every four **barbarian** levels. With only 1–2 Barbarian levels it stays at **−1/+1** — too small to spend a rage-power pick on at a shallow dip. Only becomes worthwhile with deeper Barbarian investment.
 
-**Alternative — Renewed Vigor:** Heal 1d8 + CON HP as a standard action once per rage. Emergency sustain for a frontline fighter who runs out of external healing.
+**Alternative — Renewed Vigor (requires Barbarian 4):** Heal 1d8 + CON HP as a standard action, once per day while raging. Only available once you reach Barbarian 4 (character level ~12–13 in this plan), so it is not an option at the initial dip.
 
 ---
 
@@ -320,9 +320,9 @@ After Brawler 8's Flurry upgrade at level 9, further Barbarian levels are the mo
 
 These feats are situationally strong but not worth sacrificing a permanent feat slot for. Flex into them when the situation calls for it.
 
-- **Body Shield** (APG) — Prereq: Improved Grapple. While grappling, gain +4 AC and +2 Reflex by using the opponent as cover. Flex after establishing Hold for a big defensive spike.
+- **Body Shield** (APG) — Prereqs: Dex 13, Improved Unarmed Strike, Improved Grapple, BAB +6 (all met from level 6). As an immediate action while grappling, make a grapple check to gain cover (+4 AC, +2 Reflex) against a *single* attack. Flex after establishing Hold to blunt one big incoming hit.
 - **Pummeling Style** (Ultimate Combat) — Prereq: Improved Unarmed Strike + (BAB +6 or Flurry). Pool all unarmed hits against a single target before applying DR. Flex when facing DR/— or DR/bludgeoning that Brawler's Strike doesn't bypass.
-- **Great Cleave** — Prereq: Power Attack, BAB +4. Chain attacks through adjacent foes with no per-round limit. Flex when swarmed by mooks.
+- **Hack and Slash** (the campaign's Great Cleave) — Prereqs: Str 13, Hack, Power Attack, BAB +4. An extra attack on each KO with no per-round limit. To flex it you also need **Hack** as its prerequisite feat (flex both together at level 6+, or take Hack permanently). Flex when swarmed by mooks.
 - **Lunge** — Prereq: BAB +6. Extend reach by 5 ft for one round. Flex against reach enemies or when movement isn't an option.
 
 ---
@@ -366,8 +366,8 @@ These feats are situationally strong but not worth sacrificing a permanent feat 
 - Barbarian burst: +4 Str/Con, +2 Will, -2 AC
 - 4 + Con modifier rounds/day (6 at level 1 with CON 14, scaling with CON increases)
 - Used in boss fights or emergencies
-- With Strength Surge (Barb 2): one guaranteed grapple per rage — use when a critical target must be locked down
-- With Knockback (Barb 2): every Power Attack hit pushes — reposition enemies into hazards or off ledges at will
+- With Strength Surge (Barb 2): +Barbarian level to one maneuver per rage — use when a critical grapple or bull rush must land
+- With Knockback (Barb 2): once per round, trade one attack for a bull rush — push an enemy into hazards or off a ledge (guaranteed when combined with Strength Surge)
 
 ---
 
@@ -383,6 +383,6 @@ These feats are situationally strong but not worth sacrificing a permanent feat 
 - **Catch Off-Guard** requires BAB +4 (not level 1 viable).
 - **Improved Grapple** adds Dex 13 prerequisite.
 - **Brawler's Slam** is full-round until Brawler 7, then standard action.
-- **Martial Flexibility** upgrades at Brawler 6 (swift action for 2 feats).
+- **Martial Flexibility** upgrades at Brawler 6 (swift for 1 feat, or move for 2). Swift-for-2 is the Brawler 10 tier (~character level 11). You must still meet a flexed feat's prerequisites (a *feat* prereq can be covered by spending a second simultaneous slot).
 - Lizardfolk **lacks claws** in Legendspring campaign version (core Lizardfolk has them).
 - Lizardfolk has **Inferior Vision** (-4 saves vs illusions, -2 to illusion DCs) and **Low-light Vision** (see twice as far in dim light).

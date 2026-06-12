@@ -6,7 +6,7 @@
 
 | Ability | Level | Notes |
 |---------|-------|-------|
-| Martial Flexibility | 1+ | Move action (1 feat) until 6; swift (2 feats) at 6+ |
+| Martial Flexibility | 1+ | Move (1 feat) at 1; swift-1 or move-2 at Brawler 6; swift-2 at Brawler 10 |
 | Flurry (TWF) | 2+ | Default full-attack mode |
 | Brawler's Slam | 3+ | Full-round until 7, then standard action |
 | Knockout | 4+ | 1/day; 2/day at level 10 |
@@ -16,8 +16,8 @@
 | Hack | 7+ (if taken) | Free extra attack on KO; once per round |
 | Flurry (Imp. TWF) | 9+ | Second iterative at -5 |
 | Uncanny Dodge | Barb 2+ (if taken) | Never flat-footed |
-| Strength Surge | Barb 2+ (if taken) | Guaranteed grapple once per rage |
-| Knockback | Barb 2+ (if taken) | Free bull rush on every Power Attack hit |
+| Strength Surge | Barb 2+ (if taken) | +Barb level to one maneuver per rage |
+| Knockback | Barb 2+ (if taken) | One bull rush/round in place of an attack |
 | DR 1/— | Barb 4+ (if taken) | Stacks with Studded Leather for DR 2/— |
 
 ---
@@ -28,12 +28,12 @@
 - **Flanked resistance:** At BAB +1-5, flanked by 2+ enemies. At BAB +6+ (level 6), flanked by **3+ enemies**. Much harder to swarm than core PF1e.
 - **Battered at < 50% HP:** -2 to all saves (if enforced — not used in previous campaign). Rage helps offset (+2 morale Will).
 - **Bite:** Free secondary attack at -5 for 1d3 + half STR at the end of any full attack.
-- **Martial Flexibility:** Missing a maneuver feat for the situation? Flex into it. Move action at levels 1-5, swift action at 6+. See Martial Flexibility Scenarios below for common uses.
+- **Martial Flexibility:** Missing a maneuver feat for the situation? Flex into it — you must still meet its prerequisites (a *feat* prereq can be covered by spending a second simultaneous slot). Move action for 1 feat at levels 1-5; at Brawler 6, swift for 1 **or** move for 2. See Martial Flexibility Scenarios below.
 - **Dockside Brawler trait:** +1 damage with brass knuckles and improvised weapons — always applies.
 - **Iron Will:** +2 Will saves, always on. Combined with Rage (+2 morale Will) = +4 over baseline when raging.
 - **Hack (if taken):** Free extra melee attack at full BAB whenever a foe is KO'd. Strong with Flurry.
-- **Strength Surge (if taken, Barb 2+):** Add Barbarian level to one CMB check per rage — guarantee a critical grapple.
-- **Knockback (if taken, Barb 2+):** Every Power Attack hit triggers a free bull rush. On a dockside map, push enemies off piers or into hazards.
+- **Strength Surge (if taken, Barb 2+):** Add Barbarian level to one maneuver check per rage — makes a key grapple or bull rush far more likely to land.
+- **Knockback (if taken, Barb 2+):** Once per round, trade one attack for a bull rush (no AoO). On a dockside map, push enemies off piers or into hazards — guaranteed if you spend Strength Surge.
 - **Defensive Actions:** Any provoking action can be taken defensively (DCM vs CMC + modifiers). On failure, the action is fumbled. Moving defensively costs a standard action.
 
 ---
@@ -59,7 +59,7 @@ Can the character full attack safely?
 
 **No (need to move):**
 - Move + single attack (or Slam as standard action at level 7+)
-- Move + Martial Flexibility (swift at level 6+) + single attack (if flexing is swift)
+- Move + Martial Flexibility (swift at Brawler 6 / level 7+) + single attack (if flexing is swift)
 - Move + Defensive Mobility DCM check (if the feat is taken) to avoid AoOs while repositioning
 
 ---
@@ -105,8 +105,8 @@ Can the character full attack safely?
    - **Need damage now:** Damage (attack action) — unarmed strike at full STR, or bite at 1.5× STR.
    - **Need to reposition:** Move (move action) — drag them at half speed.
    - **Want them on the ground:** Throw (standard) — puts them prone 5+ ft away, breaking the grapple. Or Drop (move) to go prone together (useful if allies are waiting to dogpile).
-3. **Strength Surge (if taken):** Pop this to guarantee a critical Hold, Pin, or Choke — 1/rage, use when the maneuver must land.
-4. **Body Shield (flex into it):** After Hold is established, flex into Body Shield (prereq: Improved Grapple) to gain +4 AC and +2 Reflex by using the grappled opponent as cover. Makes the character much harder to hit while choking out a target.
+3. **Strength Surge (if taken):** Add your Barbarian level to one Hold, Pin, or Choke check — 1/rage, when the maneuver must land.
+4. **Body Shield (flex into it):** After Hold is established, flex into Body Shield (prereqs: Dex 13, Improved Unarmed Strike, Improved Grapple, BAB +6 — all met from level 6). As an immediate action you make a grapple check to gain cover (+4 AC, +2 Reflex) against a *single* attack — pop it to blunt a big incoming hit while choking out a target.
 
 ### Important Reminders
 - **Each round without a successful grappling action → the opponent gets a free escape attempt.** Always take at least one grappling action per round.
@@ -146,18 +146,18 @@ If the opponent consistently escapes, switch to Flurry or Slam — grappling som
 | 3 | Slam (1d8, full-round) | Flurry for pressure, Slam for one big hit |
 | 4 | Knockout 1/day, AC +1 | Save Knockout for the right moment |
 | 5 | Magic strikes, Close Weapon Mastery, Catch Off-Guard online | Brass knuckles now 1d6+1, improvised only -1 to hit |
-| 6 | **Rage**, Martial Flexibility swift | Boss fights: Rage + Flurry. Every fight: swift flex |
-| 7 | Iron Will or Hack (feat choice) | Extra KO attacks (Hack) or safer saves (Iron Will) |
+| 6 | **Rage** (Barbarian dip; still Brawler 5) | Boss fights: Rage + Flurry |
+| 7 | Brawler 6: **Martial Flexibility swift**; Iron Will or Hack (feat) | Swift-flex reactively; extra KO attacks (Hack) or safer saves (Iron Will) |
 | 8 | Maneuver Training 2 (flurry at -2/-2) | Flurry accuracy improves |
 | 9 | Flurry (Imp. TWF), Bonus feat | Second iterative in flurry — big power spike |
 | 10 | Brawler 9: Knockout 2/day, AC +2 — OR — Barbarian 2: Uncanny Dodge, first Rage Power | Choose between Brawler capstone or Barbarian expansion |
-| 11+ | Barbarian 2-4: Rage Powers, DR 1/— at Barb 4 | Strength Surge (guaranteed grapple), Knockback (free bull rushes) |
+| 11+ | Barbarian 2-4: Rage Powers, DR 1/— at Barb 4 | Strength Surge (boost one maneuver/rage), Knockback (one bull rush/round in place of an attack) |
 
 ---
 
 ## Martial Flexibility Scenarios
 
-Brawlers can flex into any combat feat for 1 minute, even without meeting all prerequisites. Below are common situations and the best feats to reach for.
+Brawlers can flex into a combat feat for 1 minute. **You must meet the feat's prerequisites** — but a prerequisite that is *itself a combat feat* can be covered by spending a second simultaneous selection (the 2-feat option at Brawler 6+). Brawler's Cunning satisfies Int 13, and Martial Training makes your brawler levels count as fighter levels for prereqs. Below are common situations and the best feats to reach for.
 
 ### Enemy Casters
 
@@ -170,16 +170,20 @@ Brawlers can flex into any combat feat for 1 minute, even without meeting all pr
 
 | Situation | Flex Into | Effect |
 |-----------|-----------|--------|
-| Swarmed by mooks, need to clear space | **Great Cleave** | Chain through adjacent enemies with no per-round limit |
+| Swarmed by mooks, need to clear space | **Hack and Slash** (campaign's Great Cleave) | Extra attack on each KO, no per-round limit — needs **Hack** as a prereq, so flex both together at Brawler 6+ (or hold Hack permanently) |
 | Flanked and want to reduce the threat | **Combat Expertise** | Trade attack for AC if things get too hot |
 
 ### Specific Maneuvers Needed
 
 | Situation | Flex Into | Effect |
 |-----------|-----------|--------|
-| Enemy has a dangerous weapon | **Improved Sunder** | Break it (note: Imp. Overpowering already covers no-AoO; this adds +2) |
-| Need to reposition foe into hazard/water | **Improved Bull Rush** | +2 to push (Imp. Overpowering already covers no-AoO) |
-| Ally needs a flanking partner | **Improved Trip** | Put an enemy on the ground for allies to dogpile |
+> The campaign bundles maneuver feats: **Improved Overpowering Maneuvers** covers bull rush/overrun/sunder; **Improved Expertise Maneuvers** covers disarm/trip/dirty trick. You take Improved Overpowering at level 5, so you already do those without an AoO — flex the **Greater** version for the extra effect (see "Pre-Existing Feats to Augment" below).
+
+| Situation | Flex Into | Effect |
+|-----------|-----------|--------|
+| Enemy has a dangerous weapon | **Greater Sunder** | Excess sunder damage carries to the wielder (no-AoO already covered by Imp. Overpowering) |
+| Need to reposition foe into hazard/water | **Greater Bull Rush** | Bull-rushed foes provoke AoOs from your allies (no-AoO already covered) |
+| Ally needs a flanking partner | **Improved Expertise Maneuvers** | Trip/disarm/dirty trick without AoO, +2 — if not already held |
 
 ### Defensive / Utility
 
@@ -188,7 +192,7 @@ Brawlers can flex into any combat feat for 1 minute, even without meeting all pr
 | Moving through a threatened gauntlet | **Mobility** | +4 AC vs AoOs from movement (stacks with Defensive Mobility's DCM check) |
 | Fighting invisible foe or in darkness | **Blind-Fight** | Reroll miss chance from concealment |
 | Foe has reach and is controlling the zone | **Lunge** | Extend reach by 5 ft for a round — hit them without stepping in |
-| Grappling a dangerous foe, need defense | **Body Shield** | +4 AC and +2 Reflex while grappling — use the opponent as cover |
+| Grappling a dangerous foe, need defense | **Body Shield** | Immediate action, grapple check → cover (+4 AC, +2 Reflex) vs one attack |
 
 ### DR-Heavy Enemies
 
@@ -198,7 +202,7 @@ Brawlers can flex into any combat feat for 1 minute, even without meeting all pr
 
 ### Pre-Existing Feats to Augment
 
-The character already has (or will have) the "Improved" maneuver feats, which prevent attacks of opportunity. Flexing the "Greater" version on top adds extra bonuses — and because Martial Flexibility bypasses prerequisites, the Greater version can be flexed directly without taking it as a permanent feat.
+The character already has (or will have) the "Improved" maneuver feats, which prevent attacks of opportunity. Flexing the "Greater" version on top adds extra bonuses — and because you already hold the Improved feat that is its prerequisite, the Greater version can be flexed directly without taking it as a permanent feat.
 
 **Important:** Greater maneuvers typically add +2 and a special effect, but do NOT include the AoO protection from the Improved version. Only flex a Greater feat if the Improved version is already held, or flex both together (2 feats at level 6+).
 
@@ -213,7 +217,7 @@ The character already has (or will have) the "Improved" maneuver feats, which pr
 ### Flex Tips
 
 - **Pre-flex before doors or known ambushes.** The feat lasts 1 minute. Flex *before* kicking in the door.
-- **Swift action at level 6+ means flexing doesn't cost an attack.** At that point, flex reactively — see the situation, swift-flex the counter, then attack.
+- **Swift-action flex (Brawler 6 / character level 7+) means flexing doesn't cost an attack.** At that point, flex reactively — see the situation, swift-flex the counter, then attack. (Before then, a flex costs a move action.)
 - **Don't forget you can flex 2 feats at level 6+.** For casters, flex Disruptive + Step Up simultaneously.
 - **Flex can test feats before committing.** Not sure about taking Hack at level 7? Flex into it for a fight and see how often it triggers.
 

@@ -41,7 +41,9 @@ Lizardfolk are a powerful people who thrive in the southern reaches of the world
 - **Armored Scales:** +1 natural armor bonus to AC.
 - **Bite:** Natural bite attack dealing 1d3 damage (primary attack, or secondary if wielding manufactured weapons).
 
-### Racial Talents (choose one)
+### Racial Talents (all three)
+
+Per the wiki, a race gains all of its racial talents (parallel to its two racial advantages, both of which a Lizardfolk receives). Lizardfolk get all three — confirmed with the GM:
 
 - **Hold Breath:** Can hold breath for a number of rounds equal to 4 × Constitution score before risking drowning.
 - **Chameleon (Ex):** +4 racial bonus on Stealth checks. This doubles to +8 when not moving. If prone, an additional +2 circumstance bonus on Stealth checks.
@@ -78,22 +80,22 @@ For reference, the *core* Pathfinder Lizardfolk (8 RP) differs in several ways:
 
 | Level | BAB | Features |
 |-------|-----|----------|
-| 1 | +1 | Brawler's Cunning, Martial Flexibility (move action, 1 feat, 4 rds/day), Martial Training, **Improved Unarmed Strike** (1d6 Medium) |
+| 1 | +1 | Brawler's Cunning, Martial Flexibility (move action, 1 feat, 3 + 1/2 level uses/day), Martial Training, **Improved Unarmed Strike** (1d6 Medium) |
 | 2 | +2 | **Bonus Combat Feat**, **Brawler's Flurry** (as Two-Weapon Fighting) |
 | 3 | +3 | **Maneuver Training 1** (flurry penalty -1) |
 | 4 | +4 | **AC Bonus +1** (dodge), **Knockout 1/day** |
 | 5 | +5 | **Bonus Combat Feat**, **Brawler's Strike (magic)**, **Close Weapon Mastery** |
-| 6 | +6/+1 | Martial Flexibility upgrade (swift action, 2 feats) |
+| 6 | +6/+1 | Martial Flexibility upgrade (swift action for 1 feat, **or** move action for 2 feats) |
 | 7 | +7/+2 | **Maneuver Training 2** (flurry penalty -2) |
 | 8 | +8/+3 | **Bonus Combat Feat**, Brawler's Flurry (Improved Two-Weapon Fighting) |
 | 9 | +9/+4 | **AC Bonus +2**, Brawler's Strike (cold iron & silver) |
-| 10 | +10/+5 | Martial Flexibility upgrade (free action, 1 feat), **Knockout 2/day** |
+| 10 | +10/+5 | Martial Flexibility upgrade (free action for 1 feat, swift for 2, move for 3), **Knockout 2/day** |
 
 ### Key Feature Details
 
 **Brawler's Cunning (Ex):** Int 13 counts as Int 13 for the purpose of qualifying for combat feats. This applies to BOTH the base score and effective score — meaning the Int 13 requirement for combat feats is satisfied by this class feature.
 
-**Martial Flexibility (Ex):** Gain a combat feat the character doesn't already have for 1 minute. Move action at level 1 (1 feat, 4 + 1/2 level rounds/day). Upgrades: swift action for 2 feats at level 6, free action at level 10, immediate action at level 12.
+**Martial Flexibility (Ex):** Gain a combat feat the character doesn't already have for 1 minute, usable 3 + 1/2 brawler level times/day. **You must meet all the feat's prerequisites** — except that a *feat*-type prerequisite can be covered by spending an additional simultaneous selection (the 2-feat option). Action economy: move action for 1 feat at level 1; at level 6, swift for 1 feat **or** move for 2 feats; at level 10, free for 1 / swift for 2 / move for 3; at level 12, immediate for 1 / swift for 3. (Campaign does not revise this feature.)
 
 **Martial Training (Ex):** Brawler levels count as fighter and monk levels for feat prerequisites and item qualification.
 
@@ -101,7 +103,7 @@ For reference, the *core* Pathfinder Lizardfolk (8 RP) differs in several ways:
 
 **Maneuver Training (Ex):** Reduces the Two-Weapon Fighting penalty on attack rolls by 1 at 3rd level, by 2 at 7th, by 3 at 11th, by 4 at 15th, and eliminated at 19th.
 
-**Knockout (Ex):** 1/day at 4th level, melee attack declared before rolling. Target takes damage and must make Fort save (DC 10 + 1/2 Brawler level + Str mod) or fall unconscious for 1d6 rounds. Does not affect creatures immune to critical hits or nonlethal damage. 2/day at 10th, 3/day at 16th.
+**Knockout (Ex):** 1/day at 4th level, melee attack declared before rolling. Target takes damage and must make Fort save (DC 10 + 1/2 Brawler level + higher of Str or Dex mod) or fall unconscious for 1d6 rounds. Does not affect creatures immune to critical hits or nonlethal damage. 2/day at 10th, 3/day at 16th.
 
 **Close Weapon Mastery (Ex):** At 5th level, damage with weapons in the close fighter weapon group equals unarmed strike damage. (Close group includes: brass knuckles, gauntlet, punching dagger, sap, spiked gauntlet, etc.)
 
@@ -195,10 +197,10 @@ When taking a level in their favoured class, a character chooses one benefit:
 
 | Power | Prereqs | Effect |
 |-------|---------|--------|
-| **Strength Surge** | None | Add Barbarian level to one CMB check per rage. Guarantee a critical grapple, trip, or bull rush. |
-| **Knockback** | Power Attack, BAB +6 | Every Power Attack hit triggers a free bull rush attempt. Flurry + PA = 2-3 pushes per round. |
-| **Reckless Abandon** | None | Trade up to BAB in AC for equal attack bonus. Toggle per round. |
-| **Renewed Vigor** | None | Heal 1d8 + CON HP as a standard action, once per rage. Emergency sustain. |
+| **Strength Surge** | None | Add Barbarian level to one Str check, combat-maneuver check, or CMD vs a maneuver, once per rage (immediate action). Helps a key grapple or bull rush land. |
+| **Knockback** | None | Once per round, make one bull rush *in place of* a melee attack; on a hit, deal Str-mod damage and push, no AoO. Pairs with Strength Surge (adds Barb level to the check) to make a pier-toss very likely. |
+| **Reckless Abandon** | None | −1 AC / +1 attack while raging, increasing by 1 every four **barbarian** levels (so just −1/+1 at Barbarian 1–3). Minor at a shallow dip. |
+| **Renewed Vigor** | **Barbarian 4** | Heal 1d8 + CON HP as a standard action, once per day while raging. Not available at a 1–2 level dip. |
 
 ---
 
@@ -236,15 +238,15 @@ Each save uses **two ability scores** instead of one:
 | **Reflex** | Base + DEX mod + INT mod | Dexterity + Intelligence |
 | **Will** | Base + WIS mod + CHA mod | Wisdom + Charisma |
 
-**Lizardfolk Brawler saves at level 1 (STR +5, DEX +1, CON +2, INT -1, WIS +0, CHA -1):**
+**Lizardfolk Brawler saves at level 1.** The Legendspring sheet keeps ability modifiers as half-points — STR 21 → +5.5, DEX 13 → +1.5, CON 14 → +2, INT 9 → −0.5, WIS 11 → +0.5, CHA 9 → −0.5:
 
 | Save | Base (table) | Ab1 | Ab2 | Total |
 |------|-------------|-----|-----|-------|
-| Fort | +0.5 | STR +5 | CON +2 | **+7** |
-| Ref | +0.5 | DEX +1 | INT -1 | **+0** |
-| Will | +0 | WIS +0 | CHA -1 | **-1** |
+| Fort | +0.5 | STR +5.5 | CON +2 | **+8** |
+| Ref | +0.5 | DEX +1.5 | INT −0.5 | **+1** |
+| Will | +0 | WIS +0.5 | CHA −0.5 | **0** |
 
-With fractional intermediates: Fort +7.5 → **+7** rounded, Ref +0.5 → **+0** rounded.
+These match the character sheet. (Rounding ability mods to integers *before* summing — as an earlier draft did — understates each save by ~1.)
 
 ---
 
