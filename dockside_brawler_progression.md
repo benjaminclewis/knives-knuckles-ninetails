@@ -260,7 +260,6 @@ OR: remaining control feat from the priority list.
 ## Class Features
 - **AC Bonus +2** (dodge bonus; campaign 1.5× multiplier applies if chosen)
 - **Brawler's Strike (cold iron & silver)** — unarmed strikes bypass these DR types
-- **Knockout 2/day** (up from 1/day)
 
 ---
 
