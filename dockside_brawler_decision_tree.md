@@ -12,7 +12,7 @@
 | Knockout | 4+ | 1/day; 2/day at level 10 |
 | Close Weapon Mastery | 5+ | Brass knuckles damage = unarmed strike damage |
 | Defensive Mobility | 9 (Brawler 8 bonus) | Requires Dex 13 + Defensive Combat Training (level 6) |
-| Rage | 6+ | 4 + Con mod rounds/day |
+| Rage | 3+ | 4 + Con mod rounds/day |
 | Hack | 7+ (if taken) | Free extra attack on KO; once per round |
 | Flurry (Imp. TWF) | 9+ | Second iterative at -5 |
 | Uncanny Dodge | Barb 2+ (if taken) | Never flat-footed |
