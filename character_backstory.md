@@ -1,5 +1,7 @@
 # Kathassisk "Scab" Sethkash
 
+![Kathassisk](Kathassisk.png)
+
 ## Description
 
 A tall broad-shouldered Lizardfolk with dull brownish-green scales, crossed with pale scars — knuckle splits, a faded bite-mark on the left forearm, a patch of rougher scale along the jaw where something didn't heal right. The brass knuckles on his hands catch the light when he moves; when he doesn't move you might not notice him at all. He speaks little and smiles less. When he does talk, it's in low, clipped Maritime Common, the sibilants and clicks of his native Lizardfolk still bleeding through despite years on the docks.  He has the stillness of someone who sees everything — and the eyesight of someone who doesn't. Beneath the stillness, though, there's a tension in his shoulders that hasn't unclenched in years.
