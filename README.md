@@ -15,4 +15,5 @@ Character build and campaign rules reference for **Kathassisk "Scab" Sethkash**,
 
 ## Campaign Rules
 
+- **[Campaign Backgrounds](campaign_backgrounds.md)** — campaign traits and background options for the *Wormwood* pirate campaign
 - **[Rules Summary](rules_summary.md)** — compiled campaign-specific rules covering combat statistics, saves, OCM/DCM system, grapple subsystem, injury & death, armour, vision, skills, character advancement, and polyclassing
