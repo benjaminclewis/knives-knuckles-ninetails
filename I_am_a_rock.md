@@ -1,10 +1,8 @@
 # I Am a Rock
 
 > **Q:** I am a rock. I would like to be covered in moss. However, as a rock I don't have much agency. Do you have suggestions?
->
-> **A:** MOSS ACQUISITION STRATEGIES FOR THE AMBITIOUS ROCK
 
----
+**A:** MOSS ACQUISITION STRATEGIES FOR THE AMBITIOUS ROCK
 
 ## Passive Strategies (Rock-Compatible)
 
