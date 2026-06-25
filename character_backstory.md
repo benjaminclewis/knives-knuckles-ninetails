@@ -8,7 +8,7 @@ A tall broad-shouldered Lizardfolk with dull brownish-green scales, crossed with
 
 ## Background
 
-Kathassisk was hatched in the southern marshes of Kenamas, but he left young — not by choice. Sold to a merchant crew as deck labour while still a juvenile, he worked the trade routes north until the ship put in at a Knuckles port and he walked. A Lizardfolk with no clan and no coin doesn't get honest work on the docks. So he undercut the dock gangs, took the jobs they refused ... and took the jobs they wanted. He took their beatings, too, until he learned to give them back. 
+Kathassisk was hatched in the marshes of Ixuen, but he left young — not by choice. Sold to a merchant crew as deck labour while still a juvenile, he worked the trade routes north until the ship put in at a Knuckles port and he walked. A Lizardfolk with no clan and no coin doesn't get honest work on the docks. So he undercut the dock gangs, took the jobs they refused ... and took the jobs they wanted. He took their beatings, too, until he learned to give them back. 
 
 They call him "Scab" for it, and he has let the name stick. It is simpler than his birth name, here — he has been gone too long to be Kathassisk, and no one in the Knuckles can pronounce it right anyway.
 
