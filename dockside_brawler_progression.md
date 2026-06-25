@@ -28,6 +28,7 @@ Lizardfolk Brawler with campaign modifications:
 - Brawler's Slam at level 3 (campaign feature)
 - Legendspring OCM/DCM combat system
 - Dockside Brawler trait: +1 damage with brass knuckles and improvised weapons
+- Surprise Weapon trait: +2 attack with improvised weapons
 
 **Race:** Lizardfolk (Legendspring campaign version)
 - +2 Str, +2 Con, -2 Int
@@ -119,6 +120,9 @@ Additional Barbarian levels beyond the level 3 dip can be taken whenever Rage po
 ## Custom Background/Trait
 
 **Dockside Brawler:** You grew up on the dangerous docks of one of the Knuckles' numerous ports or anchorages, and quickly learned that fists often make a better point than fancy words, especially when used the right way. You've always preferred action to talk, anyway. You gain a +1 trait bonus on damage rolls with brass knuckles (Advanced Player's Guide 176) and improvised weapons. While drinking at a tavern called the Fox and Falcon in Noamin last night, you got into a brawl with some of the other patrons. You handled yourself well, but a group of rough-looking characters ganged up on you and overwhelmed you, knocking you unconscious. Fortunately, you were able to conceal your brass knuckles when you were press-ganged, and you begin the campaign with them, regardless of your starting circumstances.
+
+
+**Surprise Weapon:** You are skilled at fighting with objects not traditionally considered weapons. You gain a +2 trait bonus on attack rolls with improvised weapons. Combined with Dockside Brawler, improvised weapons gain +2 attack / +1 damage. Before Catch Off-Guard (level 5), improvised weapons swing at -2 instead of -4; after, at +1 net — making them a genuine tactical option alongside brass knuckles.
 
 ---
 

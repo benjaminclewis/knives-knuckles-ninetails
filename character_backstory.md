@@ -12,7 +12,7 @@ Kathassisk was hatched in the southern marshes of Kenamas, but he left young —
 
 They call him "Scab" for it, and he has let the name stick. It is simpler than his birth name, here — he has been gone too long to be Kathassisk, and no one in the Knuckles can pronounce it right anyway.
 
-He has now survived a few years that way — dockside fights, odd jobs, the occasional stint as hired muscle on a coastal trader. He finds that fists settle arguments faster than words, and that brass knuckles settle them faster than fists. The regulars at the Fox and Falcon know him as a lizard who doesn't start trouble but often seems to be where it ends.
+He has now survived a few years that way — dockside fights, odd jobs, the occasional stint as hired muscle on a coastal trader. He finds that fists settle arguments faster than words, and that brass knuckles settle them faster than fists — but a belaying pin or a broken bottle will do in a pinch. The regulars at the Fox and Falcon know him as a lizard who doesn't start trouble but often seems to be where it ends.
 
 ## Traits & Personality
 

@@ -218,3 +218,23 @@ Feats surfaced by a later review that fit the build but aren't in the level 1–
 | Rapid Grappler | Greater Grapple, BAB +9 | Ultimate Combat | ~Level 13 |
 | Improved Iron Will | Iron Will | Ultimate Magic | After Iron Will |
 | Snapping Turtle Style | IUS | Ultimate Combat | Anytime (style) |
+
+---
+
+## Traits
+
+> Character traits are approximately equal in power to half a feat. Two traits are roughly equivalent to one bonus feat.
+
+### Dockside Brawler (Campaign)
+**Source:** Legendspring Campaign — *Wormwood* pirate campaign trait.
+
+**Benefit:** +1 trait bonus on damage rolls with brass knuckles and improvised weapons. Begins the campaign with brass knuckles, regardless of starting circumstances.
+
+---
+
+### Surprise Weapon (Combat)
+**Source:** [Pathfinder Roleplaying Game: Ultimate Campaign](https://www.d20pfsrd.com/traits/combat-traits/surprise-weapon/)
+
+**Benefit:** +2 trait bonus on attack rolls with improvised weapons.
+
+> **Synergy:** Combined with Dockside Brawler (+1 damage), improvised weapons gain **+2 attack / +1 damage.** Before Catch Off-Guard (level 5), improvised weapons swing at -2 instead of the normal -4; after Catch Off-Guard, the penalty drops to -1, yielding a net **+1 to attack** over brass knuckles — and unarmed opponents are flat-footed on the first swing.
