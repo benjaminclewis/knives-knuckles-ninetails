@@ -4,3 +4,4 @@ sheets/
 *.gsheet
 *.png
 !Kathassisk.png
+attack_formula_*.md
